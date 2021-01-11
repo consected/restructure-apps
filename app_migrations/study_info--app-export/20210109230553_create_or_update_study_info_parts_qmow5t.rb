@@ -1,5 +1,5 @@
 require 'active_record/migration/app_generator'
-class CreateOrUpdateStudyInfoPartsQmol6f < ActiveRecord::Migration[5.2]
+class CreateOrUpdateStudyInfoPartsQmow5t < ActiveRecord::Migration[5.2]
   include ActiveRecord::Migration::AppGenerator
 
   def change
