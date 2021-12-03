@@ -1,1090 +1,1093 @@
 ---
 app_type:
-  id: 64
+  id: 25
   name: study info
   label: Study Info
   disabled: false
-  admin_id: 23
-  created_at: '2021-01-09T21:35:06.414Z'
-  updated_at: '2021-01-09T21:35:06.414Z'
+  admin_id: 4
+  created_at: '2021-01-15T15:11:36.753Z'
+  updated_at: '2021-01-15T15:11:36.753Z'
   default_schema_name: study_info
   app_configurations:
-  - id: 27
+  - id: 297
     name: hide search form simple
     value: 'true'
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.429Z'
-    updated_at: '2021-01-09T21:35:06.429Z'
+    created_at: '2021-01-15T15:11:36.765Z'
+    updated_at: '2021-01-15T15:11:36.765Z'
     user_email: 
-  - id: 28
+  - id: 298
     name: hide search form advanced
     value: 'true'
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.437Z'
-    updated_at: '2021-01-09T21:35:06.437Z'
+    created_at: '2021-01-15T15:11:36.774Z'
+    updated_at: '2021-01-15T15:11:36.774Z'
     user_email: 
-  - id: 29
+  - id: 299
     name: default search form
     value: study_info__study_info_parts
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.445Z'
-    updated_at: '2021-01-09T21:35:06.445Z'
+    created_at: '2021-01-15T15:11:36.781Z'
+    updated_at: '2021-01-15T15:11:36.781Z'
     user_email: 
-  - id: 30
+  - id: 300
     name: create master with
     value: study_info_part
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.452Z'
-    updated_at: '2021-01-09T21:35:06.452Z'
+    created_at: '2021-01-15T15:11:36.789Z'
+    updated_at: '2021-01-15T15:11:36.789Z'
     user_email: 
-  - id: 31
+  - id: 301
     name: menu create master record label
     value: Add Library
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.460Z'
-    updated_at: '2021-01-09T21:35:06.460Z'
+    created_at: '2021-01-15T15:11:36.797Z'
+    updated_at: '2021-01-15T15:11:36.797Z'
     user_email: 
-  - id: 32
+  - id: 302
     name: master header title
     value: "{{ids.study_info_id}}"
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.467Z'
-    updated_at: '2021-01-09T21:35:06.467Z'
+    created_at: '2021-01-15T15:11:36.805Z'
+    updated_at: '2021-01-15T15:11:36.805Z'
     user_email: 
-  - id: 33
+  - id: 303
     name: hide tracker panel
     value: 'true'
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.475Z'
-    updated_at: '2021-01-09T21:35:06.475Z'
+    created_at: '2021-01-15T15:11:36.814Z'
+    updated_at: '2021-01-15T15:11:36.814Z'
     user_email: 
-  - id: 34
+  - id: 304
     name: menu research label
     value: Edit
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.482Z'
-    updated_at: '2021-01-09T21:35:06.482Z'
+    created_at: '2021-01-15T15:11:36.821Z'
+    updated_at: '2021-01-15T15:11:36.821Z'
     user_email: 
-  - id: 35
+  - id: 305
     name: notes field format
     value: markdown
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.489Z'
-    updated_at: '2021-01-09T21:35:06.489Z'
+    created_at: '2021-01-15T15:11:36.828Z'
+    updated_at: '2021-01-15T15:11:36.828Z'
     user_email: 
-  - id: 36
+  - id: 306
     name: hide navbar search
     value: 'true'
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.496Z'
-    updated_at: '2021-01-09T21:35:06.496Z'
+    created_at: '2021-01-15T15:11:36.836Z'
+    updated_at: '2021-01-15T15:11:36.836Z'
     user_email: 
-  - id: 37
+  - id: 307
     name: default report tab
     value: data-requests
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.504Z'
-    updated_at: '2021-01-09T21:35:06.504Z'
+    created_at: '2021-01-15T15:11:36.843Z'
+    updated_at: '2021-01-15T15:11:36.843Z'
     user_email: 
-  - id: 38
+  - id: 308
     name: open panels
     value: activity_log__study_info_parts
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.511Z'
-    updated_at: '2021-01-09T21:35:06.511Z'
+    created_at: '2021-01-15T15:11:36.850Z'
+    updated_at: '2021-01-15T15:11:36.850Z'
     user_email: 
-  - id: 39
-    name: heading create master record label
-    value: Create Library
+  - id: 309
+    name: logo link
+    value: "/content/page/external-information/fphs-investigator-intranet"
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
+    app_type_id: 25
     role_name: ''
-    created_at: '2021-01-09T21:35:06.519Z'
-    updated_at: '2021-01-09T21:35:06.519Z'
+    created_at: '2021-01-15T15:11:36.858Z'
+    updated_at: '2021-01-15T15:11:36.858Z'
     user_email: 
-  - id: 40
-    name: menu research label
-    value: none
+  - id: 310
+    name: user session timeout
+    value: '45'
     disabled: false
-    admin_id: 23
+    admin_id: 4
     user_id: 
-    app_type_id: 64
-    role_name: basic-viewer
-    created_at: '2021-01-09T21:35:06.526Z'
-    updated_at: '2021-01-09T21:35:06.526Z'
+    app_type_id: 25
+    role_name: ''
+    created_at: '2021-01-15T17:50:22.636Z'
+    updated_at: '2021-01-15T17:50:22.636Z'
     user_email: 
   valid_user_access_controls:
-  - id: 54
+  - id: 1493
     user_id: 
     resource_type: general
     resource_name: app_type
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.246Z'
-    updated_at: '2021-01-09T21:35:09.246Z'
+    created_at: '2021-01-15T15:11:37.916Z'
+    updated_at: '2021-01-15T15:11:37.916Z'
     user_email: 
-  - id: 55
+  - id: 1494
     user_id: 
     resource_type: table
     resource_name: dynamic_model__study_page_sections
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.254Z'
-    updated_at: '2021-01-09T21:35:09.254Z'
+    created_at: '2021-01-15T15:11:37.925Z'
+    updated_at: '2021-01-15T15:11:37.925Z'
     user_email: 
-  - id: 56
+  - id: 1495
     user_id: 
     resource_type: table
     resource_name: dynamic_model__study_page_sections
     options: 
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.261Z'
-    updated_at: '2021-01-09T21:35:09.261Z'
+    created_at: '2021-01-15T15:11:37.933Z'
+    updated_at: '2021-01-15T15:11:37.933Z'
     user_email: 
-  - id: 57
+  - id: 1496
     user_id: 
     resource_type: table
     resource_name: study_info_parts
     options: 
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.268Z'
-    updated_at: '2021-01-09T21:35:09.268Z'
+    created_at: '2021-01-15T15:11:37.941Z'
+    updated_at: '2021-01-15T15:11:37.941Z'
     user_email: 
-  - id: 58
+  - id: 1497
     user_id: 
     resource_type: table
     resource_name: study_info_parts
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.275Z'
-    updated_at: '2021-01-09T21:35:09.275Z'
+    created_at: '2021-01-15T15:11:37.948Z'
+    updated_at: '2021-01-15T15:11:37.948Z'
     user_email: 
-  - id: 59
+  - id: 1498
     user_id: 
     resource_type: table
     resource_name: activity_log__study_info_parts
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.282Z'
-    updated_at: '2021-01-09T21:35:09.282Z'
+    created_at: '2021-01-15T15:11:37.956Z'
+    updated_at: '2021-01-15T15:11:37.956Z'
     user_email: 
-  - id: 60
+  - id: 1499
     user_id: 
     resource_type: activity_log_type
     resource_name: activity_log__study_info_part__page
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.299Z'
-    updated_at: '2021-01-09T21:35:09.299Z'
+    created_at: '2021-01-15T15:11:37.963Z'
+    updated_at: '2021-01-15T15:11:37.963Z'
     user_email: 
-  - id: 61
+  - id: 1500
     user_id: 
     resource_type: general
     resource_name: create_master
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.317Z'
-    updated_at: '2021-01-09T21:35:09.317Z'
+    created_at: '2021-01-15T15:11:37.971Z'
+    updated_at: '2021-01-15T15:11:37.971Z'
     user_email: 
-  - id: 62
+  - id: 1501
     user_id: 
     resource_type: report
     resource_name: study_info__study_info_parts
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.327Z'
-    updated_at: '2021-01-09T21:35:09.327Z'
+    created_at: '2021-01-15T15:11:37.979Z'
+    updated_at: '2021-01-15T15:11:37.979Z'
     user_email: 
-  - id: 63
+  - id: 1502
     user_id: 
     resource_type: general
     resource_name: view_reports
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.335Z'
-    updated_at: '2021-01-09T21:35:09.335Z'
+    created_at: '2021-01-15T15:11:37.986Z'
+    updated_at: '2021-01-15T15:11:37.986Z'
     user_email: 
-  - id: 64
+  - id: 1503
     user_id: 
     resource_type: table
     resource_name: trackers
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.342Z'
-    updated_at: '2021-01-09T21:35:09.342Z'
+    created_at: '2021-01-15T15:11:37.994Z'
+    updated_at: '2021-01-15T15:11:37.994Z'
     user_email: 
-  - id: 65
+  - id: 1504
     user_id: 
     resource_type: table
     resource_name: activity_log__study_info_parts
     options: 
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.352Z'
-    updated_at: '2021-01-09T21:35:09.352Z'
+    created_at: '2021-01-15T15:11:38.003Z'
+    updated_at: '2021-01-15T15:11:38.003Z'
     user_email: 
-  - id: 66
+  - id: 1505
     user_id: 
     resource_type: general
     resource_name: view_pages
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.360Z'
-    updated_at: '2021-01-09T21:35:09.360Z'
+    created_at: '2021-01-15T15:11:38.011Z'
+    updated_at: '2021-01-15T15:11:38.011Z'
     user_email: 
-  - id: 67
+  - id: 1506
     user_id: 
     resource_type: report
     resource_name: study_info__study_info_page
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.367Z'
-    updated_at: '2021-01-09T21:35:09.367Z'
+    created_at: '2021-01-15T15:11:38.019Z'
+    updated_at: '2021-01-15T15:11:38.019Z'
     user_email: 
-  - id: 68
+  - id: 1507
     user_id: 
     resource_type: table
     resource_name: nfs_store__manage__archived_files
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.374Z'
-    updated_at: '2021-01-09T21:35:09.374Z'
+    created_at: '2021-01-15T15:11:38.026Z'
+    updated_at: '2021-01-15T15:11:38.026Z'
     user_email: 
-  - id: 69
+  - id: 1508
     user_id: 
     resource_type: table
     resource_name: nfs_store__manage__containers
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.382Z'
-    updated_at: '2021-01-09T21:35:09.382Z'
+    created_at: '2021-01-15T15:11:38.035Z'
+    updated_at: '2021-01-15T15:11:38.035Z'
     user_email: 
-  - id: 70
+  - id: 1509
     user_id: 
     resource_type: table
     resource_name: nfs_store__manage__stored_files
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.390Z'
-    updated_at: '2021-01-09T21:35:09.390Z'
+    created_at: '2021-01-15T15:11:38.043Z'
+    updated_at: '2021-01-15T15:11:38.043Z'
     user_email: 
-  - id: 71
+  - id: 1510
     user_id: 
     resource_type: activity_log_type
     resource_name: activity_log__study_info_part__supporting_files
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.397Z'
-    updated_at: '2021-01-09T21:35:09.397Z'
+    created_at: '2021-01-15T15:11:38.080Z'
+    updated_at: '2021-01-15T15:11:38.080Z'
     user_email: 
-  - id: 72
+  - id: 1511
     user_id: 
     resource_type: general
     resource_name: send_files_to_trash
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.405Z'
-    updated_at: '2021-01-09T21:35:09.405Z'
+    created_at: '2021-01-15T15:11:38.089Z'
+    updated_at: '2021-01-15T15:11:38.089Z'
     user_email: 
-  - id: 73
+  - id: 1512
     user_id: 
     resource_type: general
     resource_name: move_files
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.412Z'
-    updated_at: '2021-01-09T21:35:09.412Z'
+    created_at: '2021-01-15T15:11:38.096Z'
+    updated_at: '2021-01-15T15:11:38.096Z'
     user_email: 
-  - id: 74
+  - id: 1513
     user_id: 
     resource_type: general
     resource_name: download_files
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.419Z'
-    updated_at: '2021-01-09T21:35:09.419Z'
+    created_at: '2021-01-15T15:11:38.104Z'
+    updated_at: '2021-01-15T15:11:38.104Z'
     user_email: 
-  - id: 75
+  - id: 1514
     user_id: 
     resource_type: general
     resource_name: view_files_as_image
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.426Z'
-    updated_at: '2021-01-09T21:35:09.426Z'
+    created_at: '2021-01-15T15:11:38.112Z'
+    updated_at: '2021-01-15T15:11:38.112Z'
     user_email: 
-  - id: 76
+  - id: 1515
     user_id: 
     resource_type: general
     resource_name: view_data_reference
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.433Z'
-    updated_at: '2021-01-09T21:35:09.433Z'
+    created_at: '2021-01-15T15:11:38.120Z'
+    updated_at: '2021-01-15T15:11:38.120Z'
     user_email: 
-  - id: 77
+  - id: 1516
     user_id: 
     resource_type: report
     resource_name: data_requests__q1_data_dictionary
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.440Z'
-    updated_at: '2021-01-09T21:35:09.440Z'
+    created_at: '2021-01-15T15:11:38.128Z'
+    updated_at: '2021-01-15T15:11:38.128Z'
     user_email: 
-  - id: 78
+  - id: 1517
     user_id: 
     resource_type: report
     resource_name: data_requests__q2_data_dictionary
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.447Z'
-    updated_at: '2021-01-09T21:35:09.447Z'
+    created_at: '2021-01-15T15:11:38.135Z'
+    updated_at: '2021-01-15T15:11:38.135Z'
     user_email: 
-  - id: 79
+  - id: 1518
     user_id: 
     resource_type: activity_log_type
     resource_name: activity_log__study_info_part__attachments
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.454Z'
-    updated_at: '2021-01-09T21:35:09.454Z'
+    created_at: '2021-01-15T15:11:38.143Z'
+    updated_at: '2021-01-15T15:11:38.143Z'
     user_email: 
-  - id: 80
+  - id: 1519
     user_id: 
     resource_type: table
     resource_name: dynamic_model__study_common_sections
     options: 
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.462Z'
-    updated_at: '2021-01-09T21:35:09.462Z'
+    created_at: '2021-01-15T15:11:38.151Z'
+    updated_at: '2021-01-15T15:11:38.151Z'
     user_email: 
-  - id: 81
+  - id: 1520
     user_id: 
     resource_type: table
     resource_name: dynamic_model__study_common_sections
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.470Z'
-    updated_at: '2021-01-09T21:35:09.470Z'
+    created_at: '2021-01-15T15:11:38.158Z'
+    updated_at: '2021-01-15T15:11:38.158Z'
     user_email: 
-  - id: 82
+  - id: 1521
     user_id: 
     resource_type: activity_log_type
     resource_name: activity_log__study_info_part__common_parts
     options: ''
     access: create
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.477Z'
-    updated_at: '2021-01-09T21:35:09.477Z'
+    created_at: '2021-01-15T15:11:38.166Z'
+    updated_at: '2021-01-15T15:11:38.166Z'
     user_email: 
-  - id: 83
+  - id: 1522
     user_id: 
     resource_type: table
     resource_name: nfs_store__manage__archived_files
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.485Z'
-    updated_at: '2021-01-09T21:35:09.485Z'
+    created_at: '2021-01-15T15:11:38.174Z'
+    updated_at: '2021-01-15T15:11:38.174Z'
     user_email: 
-  - id: 84
+  - id: 1523
     user_id: 
     resource_type: table
     resource_name: nfs_store__manage__containers
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.493Z'
-    updated_at: '2021-01-09T21:35:09.493Z'
+    created_at: '2021-01-15T15:11:38.182Z'
+    updated_at: '2021-01-15T15:11:38.182Z'
     user_email: 
-  - id: 85
+  - id: 1524
     user_id: 
     resource_type: table
     resource_name: nfs_store__manage__stored_files
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.501Z'
-    updated_at: '2021-01-09T21:35:09.501Z'
+    created_at: '2021-01-15T15:11:38.190Z'
+    updated_at: '2021-01-15T15:11:38.190Z'
     user_email: 
-  - id: 86
+  - id: 1525
     user_id: 
     resource_type: general
     resource_name: download_files
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.509Z'
-    updated_at: '2021-01-09T21:35:09.509Z'
+    created_at: '2021-01-15T15:11:38.198Z'
+    updated_at: '2021-01-15T15:11:38.198Z'
     user_email: 
-  - id: 87
+  - id: 1526
     user_id: 
     resource_type: general
     resource_name: app_type
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.516Z'
-    updated_at: '2021-01-09T21:35:09.516Z'
+    created_at: '2021-01-15T15:11:38.205Z'
+    updated_at: '2021-01-15T15:11:38.205Z'
     user_email: 
-  - id: 88
+  - id: 1527
     user_id: 
     resource_type: activity_log_type
     resource_name: activity_log__study_info_part__attachments
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.523Z'
-    updated_at: '2021-01-09T21:35:09.523Z'
+    created_at: '2021-01-15T15:11:38.213Z'
+    updated_at: '2021-01-15T15:11:38.213Z'
     user_email: 
-  - id: 89
+  - id: 1528
     user_id: 
     resource_type: activity_log_type
     resource_name: activity_log__study_info_part__common_parts
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.530Z'
-    updated_at: '2021-01-09T21:35:09.530Z'
+    created_at: '2021-01-15T15:11:38.220Z'
+    updated_at: '2021-01-15T15:11:38.220Z'
     user_email: 
-  - id: 90
+  - id: 1529
     user_id: 
     resource_type: activity_log_type
     resource_name: activity_log__study_info_part__supporting_files
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.538Z'
-    updated_at: '2021-01-09T21:35:09.538Z'
+    created_at: '2021-01-15T15:11:38.228Z'
+    updated_at: '2021-01-15T15:11:38.228Z'
     user_email: 
-  - id: 91
+  - id: 1530
     user_id: 
     resource_type: general
     resource_name: view_data_reference
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.545Z'
-    updated_at: '2021-01-09T21:35:09.545Z'
+    created_at: '2021-01-15T15:11:38.236Z'
+    updated_at: '2021-01-15T15:11:38.236Z'
     user_email: 
-  - id: 92
+  - id: 1531
     user_id: 
     resource_type: general
     resource_name: view_files_as_image
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.554Z'
-    updated_at: '2021-01-09T21:35:09.554Z'
+    created_at: '2021-01-15T15:11:38.243Z'
+    updated_at: '2021-01-15T15:11:38.243Z'
     user_email: 
-  - id: 93
+  - id: 1532
     user_id: 
     resource_type: general
     resource_name: view_pages
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.562Z'
-    updated_at: '2021-01-09T21:35:09.562Z'
+    created_at: '2021-01-15T15:11:38.252Z'
+    updated_at: '2021-01-15T15:11:38.252Z'
     user_email: 
-  - id: 94
+  - id: 1533
     user_id: 
     resource_type: general
     resource_name: view_report_not_list
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.570Z'
-    updated_at: '2021-01-09T21:35:09.570Z'
+    created_at: '2021-01-15T15:11:38.259Z'
+    updated_at: '2021-01-15T15:11:38.259Z'
     user_email: 
-  - id: 95
+  - id: 1534
     user_id: 
     resource_type: report
     resource_name: data_requests__q1_data_dictionary
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.577Z'
-    updated_at: '2021-01-09T21:35:09.577Z'
+    created_at: '2021-01-15T15:11:38.267Z'
+    updated_at: '2021-01-15T15:11:38.267Z'
     user_email: 
-  - id: 96
+  - id: 1535
     user_id: 
     resource_type: report
     resource_name: data_requests__q2_data_dictionary
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.584Z'
-    updated_at: '2021-01-09T21:35:09.584Z'
+    created_at: '2021-01-15T15:11:38.275Z'
+    updated_at: '2021-01-15T15:11:38.275Z'
     user_email: 
-  - id: 97
+  - id: 1536
     user_id: 
     resource_type: report
     resource_name: study_info__study_info_page
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: _app_
-    created_at: '2021-01-09T21:35:09.592Z'
-    updated_at: '2021-01-09T21:35:09.592Z'
+    created_at: '2021-01-15T15:11:38.282Z'
+    updated_at: '2021-01-15T15:11:38.282Z'
     user_email: 
-  - id: 98
+  - id: 1537
     user_id: 
     resource_type: report
     resource_name: study_info__search_for_a_page
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
-    role_name: _app_
-    created_at: '2021-01-09T21:35:09.600Z'
-    updated_at: '2021-01-09T21:35:09.600Z'
-    user_email: 
-  - id: 99
-    user_id: 
-    resource_type: report
-    resource_name: study_info__search_for_a_page
-    options: ''
-    access: read
-    disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: editor
-    created_at: '2021-01-09T21:35:09.607Z'
-    updated_at: '2021-01-09T21:35:09.607Z'
+    created_at: '2021-01-15T15:11:38.290Z'
+    updated_at: '2021-01-15T15:11:38.290Z'
     user_email: 
-  - id: 100
+  - id: 1538
     user_id: 
-    resource_type: activity_log_type
-    resource_name: activity_log__study_info_part__page
-    options: ''
-    access: create
-    disabled: false
-    admin_id: 23
-    app_type_id: 64
-    role_name: _app_
-    created_at: '2021-01-09T21:35:09.615Z'
-    updated_at: '2021-01-09T21:35:09.615Z'
-    user_email: 
-  - id: 101
-    user_id: 
-    resource_type: table
-    resource_name: activity_log__study_info_parts
+    resource_type: report
+    resource_name: study_info__search_for_a_page
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
-    role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.623Z'
-    updated_at: '2021-01-09T21:35:09.623Z'
+    admin_id: 4
+    app_type_id: 25
+    role_name: _app_
+    created_at: '2021-01-15T15:11:38.298Z'
+    updated_at: '2021-01-15T15:11:38.298Z'
     user_email: 
-  - id: 102
+  - id: 1539
     user_id: 
     resource_type: activity_log_type
     resource_name: activity_log__study_info_part__attachments
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.630Z'
-    updated_at: '2021-01-09T21:35:09.630Z'
+    created_at: '2021-01-15T15:11:38.305Z'
+    updated_at: '2021-01-15T15:11:38.305Z'
     user_email: 
-  - id: 103
+  - id: 1540
     user_id: 
     resource_type: activity_log_type
     resource_name: activity_log__study_info_part__common_parts
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.638Z'
-    updated_at: '2021-01-09T21:35:09.638Z'
+    created_at: '2021-01-15T15:11:38.313Z'
+    updated_at: '2021-01-15T15:11:38.313Z'
     user_email: 
-  - id: 104
+  - id: 1541
     user_id: 
     resource_type: activity_log_type
     resource_name: activity_log__study_info_part__page
     options: ''
-    access: create
+    access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.646Z'
-    updated_at: '2021-01-09T21:35:09.646Z'
+    created_at: '2021-01-15T15:11:38.321Z'
+    updated_at: '2021-01-15T15:11:38.321Z'
     user_email: 
-  - id: 105
+  - id: 1542
     user_id: 
     resource_type: activity_log_type
     resource_name: activity_log__study_info_part__supporting_files
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.654Z'
-    updated_at: '2021-01-09T21:35:09.654Z'
+    created_at: '2021-01-15T15:11:38.328Z'
+    updated_at: '2021-01-15T15:11:38.328Z'
     user_email: 
-  - id: 106
+  - id: 1543
     user_id: 
     resource_type: general
     resource_name: app_type
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.661Z'
-    updated_at: '2021-01-09T21:35:09.661Z'
+    created_at: '2021-01-15T15:11:38.336Z'
+    updated_at: '2021-01-15T15:11:38.336Z'
     user_email: 
-  - id: 107
+  - id: 1544
     user_id: 
     resource_type: general
     resource_name: download_files
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.668Z'
-    updated_at: '2021-01-09T21:35:09.668Z'
+    created_at: '2021-01-15T15:11:38.344Z'
+    updated_at: '2021-01-15T15:11:38.344Z'
     user_email: 
-  - id: 108
+  - id: 1545
     user_id: 
     resource_type: general
     resource_name: view_pages
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.676Z'
-    updated_at: '2021-01-09T21:35:09.676Z'
+    created_at: '2021-01-15T15:11:38.351Z'
+    updated_at: '2021-01-15T15:11:38.351Z'
     user_email: 
-  - id: 109
+  - id: 1546
     user_id: 
     resource_type: general
     resource_name: view_report_not_list
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.683Z'
-    updated_at: '2021-01-09T21:35:09.683Z'
+    created_at: '2021-01-15T15:11:38.359Z'
+    updated_at: '2021-01-15T15:11:38.359Z'
     user_email: 
-  - id: 110
+  - id: 1547
     user_id: 
     resource_type: report
     resource_name: data_requests__q1_data_dictionary
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.692Z'
-    updated_at: '2021-01-09T21:35:09.692Z'
+    created_at: '2021-01-15T15:11:38.367Z'
+    updated_at: '2021-01-15T15:11:38.367Z'
     user_email: 
-  - id: 111
+  - id: 1548
     user_id: 
     resource_type: report
     resource_name: data_requests__q2_data_dictionary
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.699Z'
-    updated_at: '2021-01-09T21:35:09.699Z'
+    created_at: '2021-01-15T15:11:38.376Z'
+    updated_at: '2021-01-15T15:11:38.376Z'
     user_email: 
-  - id: 112
+  - id: 1549
+    user_id: 
+    resource_type: report
+    resource_name: study_info__study_info_page
+    options: ''
+    access: read
+    disabled: false
+    admin_id: 4
+    app_type_id: 25
+    role_name: basic-viewer
+    created_at: '2021-01-15T15:11:38.384Z'
+    updated_at: '2021-01-15T15:11:38.384Z'
+    user_email: 
+  - id: 1550
     user_id: 
     resource_type: report
     resource_name: study_info__search_for_a_page
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.706Z'
-    updated_at: '2021-01-09T21:35:09.706Z'
+    created_at: '2021-01-15T15:11:38.391Z'
+    updated_at: '2021-01-15T15:11:38.391Z'
     user_email: 
-  - id: 113
+  - id: 1551
+    user_id: 
+    resource_type: table
+    resource_name: activity_log__study_info_parts
+    options: ''
+    access: read
+    disabled: false
+    admin_id: 4
+    app_type_id: 25
+    role_name: basic-viewer
+    created_at: '2021-01-15T15:11:38.399Z'
+    updated_at: '2021-01-15T15:11:38.399Z'
+    user_email: 
+  - id: 1552
     user_id: 
     resource_type: table
     resource_name: dynamic_model__study_common_sections
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.715Z'
-    updated_at: '2021-01-09T21:35:09.715Z'
+    created_at: '2021-01-15T15:11:38.406Z'
+    updated_at: '2021-01-15T15:11:38.406Z'
     user_email: 
-  - id: 114
+  - id: 1553
     user_id: 
     resource_type: table
     resource_name: dynamic_model__study_page_sections
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.723Z'
-    updated_at: '2021-01-09T21:35:09.723Z'
+    created_at: '2021-01-15T15:11:38.414Z'
+    updated_at: '2021-01-15T15:11:38.414Z'
     user_email: 
-  - id: 115
+  - id: 1554
     user_id: 
     resource_type: table
     resource_name: nfs_store__manage__archived_files
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.733Z'
-    updated_at: '2021-01-09T21:35:09.733Z'
+    created_at: '2021-01-15T15:11:38.422Z'
+    updated_at: '2021-01-15T15:11:38.422Z'
     user_email: 
-  - id: 116
+  - id: 1555
     user_id: 
     resource_type: table
     resource_name: nfs_store__manage__containers
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.741Z'
-    updated_at: '2021-01-09T21:35:09.741Z'
+    created_at: '2021-01-15T15:11:38.430Z'
+    updated_at: '2021-01-15T15:11:38.430Z'
     user_email: 
-  - id: 117
+  - id: 1556
     user_id: 
     resource_type: table
     resource_name: nfs_store__manage__stored_files
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.748Z'
-    updated_at: '2021-01-09T21:35:09.748Z'
+    created_at: '2021-01-15T15:11:38.438Z'
+    updated_at: '2021-01-15T15:11:38.438Z'
     user_email: 
-  - id: 118
+  - id: 1557
     user_id: 
     resource_type: table
     resource_name: study_info_parts
     options: ''
     access: read
     disabled: false
-    admin_id: 23
-    app_type_id: 64
+    admin_id: 4
+    app_type_id: 25
     role_name: basic-viewer
-    created_at: '2021-01-09T21:35:09.756Z'
-    updated_at: '2021-01-09T21:35:09.756Z'
+    created_at: '2021-01-15T15:11:38.446Z'
+    updated_at: '2021-01-15T15:11:38.446Z'
     user_email: 
   valid_associated_activity_logs:
-  - id: 3
+  - id: 32
     name: Study Info Page
     item_type: study_info_part
     rec_type: ''
-    admin_id: 23
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.785Z'
-    updated_at: '2021-01-09T21:55:24.946Z'
+    created_at: '2021-01-15T15:11:37.209Z'
+    updated_at: '2021-01-15T18:43:51.147Z'
     action_when_attribute: updated_at
     field_list: ''
     blank_log_field_list: ''
     blank_log_name: ''
-    extra_log_types: "_configurations: \r\n  secondary_key: slug\r\n\r\n_definitions:\r\n
-      \ fs_enabled_if: &enabled_if\r\n    always: true\r\n\r\n# @library common filestore_container\r\n\r\n########################################\r\n#
-      Page\r\n########################################\r\npage:\r\n  label: Page {{title}}\r\n
+    extra_log_types: "# @library study_info defaults\r\n\r\n\r\n_configurations: \r\n
+      \ secondary_key: slug\r\n\r\n_definitions:\r\n  fs_enabled_if: &enabled_if\r\n
+      \   always: true\r\n\r\n# @library common filestore_container\r\n\r\n########################################\r\n#
+      Page\r\n########################################\r\npage:\r\n  label: Page\r\n
       \ \r\n  fields:\r\n    - title\r\n    - description\r\n    - default_layout\r\n
-      \   - slug\r\n    - tag_select_allow_roles_access\r\n    - footer\r\n    - disabled\r\n\r\n
-      \ field_options:\r\n    title: \r\n      no_downcase: true\r\n    slug: \r\n
-      \     no_downcase: true\r\n\r\n    description:\r\n      format: plain\r\n    \r\n
-      \   default_layout:\r\n      edit_as:\r\n        field_type: select_default_layout\r\n
-      \       alt_options:\r\n          - columns\r\n          - rows\r\n    \r\n
-      \   tag_select_allow_roles_access:\r\n      edit_as:\r\n        alt_options:\r\n
-      \         - basic-viewer\r\n          - advanced-viewer\r\n    \r\n    footer:\r\n
-      \     edit_as:\r\n        field_type: select_record_id_from_table_study_common_sections\r\n
-      \   \r\n  editable_if:\r\n    always: true\r\n    \r\n  showable_if:\r\n    all:\r\n
-      \     this:\r\n        disabled: false\r\n      any:\r\n        this:\r\n          tag_select_allow_roles_access:
-      \r\n            condition: '&&'\r\n            value: current_user_role_names\r\n
-      \       user:\r\n          role_name: \r\n            - editor\r\n\r\n  caption_before:\r\n
-      \   all_fields: |\r\n      [Page Link](/content/page/{{ids.study_info_id::lowercase}}/{{slug::lowercase}}){:target=\"_blank\"}\r\n
+      \   - slug\r\n    - tag_select_allow_roles_access\r\n    - footer\r\n\r\n  field_options:\r\n
+      \   title: \r\n      no_downcase: true\r\n    slug: \r\n      no_downcase: true\r\n\r\n
+      \   description:\r\n      format: plain\r\n    \r\n    default_layout:\r\n      edit_as:\r\n
+      \       field_type: select_default_layout\r\n        alt_options:\r\n          -
+      columns\r\n          - rows\r\n    \r\n    tag_select_allow_roles_access:\r\n
+      \     <<: *tag_select_allow_roles_access\r\n      \r\n    footer:\r\n      edit_as:\r\n
+      \       field_type: select_record_id_from_table_study_common_sections\r\n    \r\n
+      \ editable_if:\r\n    always: true\r\n    \r\n  showable_if:\r\n    any:\r\n
+      \     this:\r\n        tag_select_allow_roles_access: \r\n          condition:
+      '&&'\r\n          value: current_user_role_names\r\n      user:\r\n        role_name:
+      \r\n          - editor\r\n\r\n  caption_before:\r\n    all_fields: |\r\n      [Page
+      Link](/content/page/{{ids.study_info_id::lowercase}}/{{slug::lowercase}}){:target=\"_blank\"}\r\n
       \     \r\n    title: Title\r\n    description: Description\r\n\r\n    default_layout:
       Default Layout\r\n    slug: Slug\r\n    tag_select_allow_roles_access: Allow
       Roles Access\r\n    footer: Select footer\r\n\r\n\r\n  references:\r\n    -
       dynamic_model__study_page_sections:\r\n        label: Section\r\n        from:
       this\r\n        add: many\r\n        order_by: \r\n          position_number:
       asc\r\n\r\n        view_as:\r\n          new: not_embedded\r\n          edit:
-      not_embedded\r\n\r\n    - dynamic_model__study_common_sections:\r\n        label:
-      Footer\r\n        from: this\r\n        add: many\r\n        without_reference:
+      not_embedded\r\n          \r\n        enforce_showable: true\r\n\r\n\r\n    -
+      dynamic_model__study_common_sections:\r\n        label: Footer\r\n        from:
+      this\r\n        add: many\r\n        limit: 0\r\n        without_reference:
       true\r\n        \r\n        filter_by:\r\n          id: \"{{footer}}\"\r\n          \r\n
       \       order_by: \r\n          position_number: asc\r\n\r\n        view_as:\r\n
       \         new: not_embedded\r\n          edit: not_embedded\r\n\r\n\r\n    -
       activity_log__study_info_part:\r\n        label: Files\r\n        from: this\r\n
       \       add: many\r\n        order_by:\r\n          position_number: asc\r\n
       \       filter_by:\r\n          extra_log_type: attachments\r\n        add_with:\r\n
-      \         extra_log_type: attachments\r\n\r\n  save_trigger:\r\n    on_create:\r\n
-      \     update_this:\r\n        - this:\r\n            #first:\r\n            #
-      \   this:\r\n            #      update: return_result\r\n            with:\r\n
-      \             slug: \"{{title::strip::hyphenate::lowercase}}\"\r\n\r\n  view_options:\r\n
-      \   alt_width_classes: col-md-18 col-lg-18 col-md-offset-3 prevent_nfs_resize
-      standalone-page-design\r\n    extra_class: flex-captions\r\n\r\n\r\n########################################\r\n#
+      \         extra_log_type: attachments\r\n        enforce_showable: true\r\n\r\n
+      \ save_trigger:\r\n    on_create:\r\n      update_this:\r\n        - this:\r\n
+      \           #first:\r\n            #    this:\r\n            #      update:
+      return_result\r\n            with:\r\n              slug: \"{{title::strip::hyphenate::lowercase}}\"\r\n\r\n
+      \ view_options:\r\n    alt_width_classes: col-md-18 col-lg-18 col-md-offset-3
+      prevent_nfs_resize standalone-page-design\r\n    extra_class: flex-captions\r\n\r\n\r\n########################################\r\n#
       Attachments\r\n########################################\r\nattachments: \r\n
       \ <<: *files_activity\r\n  fields:\r\n    - title\r\n    - description\r\n    -
-      position_number\r\n    - extra_classes\r\n\r\n  field_options:\r\n    title:
-      \r\n      no_downcase: true\r\n      \r\n    description:\r\n      config:\r\n
-      \       toolbar_type: advanced   \r\n      \r\n  creatable_if: \r\n    never:
-      true\r\n    \r\n  showable_if:\r\n    never: true\r\n    \r\n  caption_before:\r\n
-      \   notes: Click *Save* to create an attachments block\r\n\r\n  show_if:\r\n
-      \   data:\r\n      current_mode: edit\r\n      \r\n  view_options:\r\n    extra_class:
-      row-icons\r\n    data_attribute: title\r\n\r\n########################################\r\n#
+      position_number\r\n    - extra_classes\r\n    - tag_select_allow_roles_access\r\n\r\n
+      \ field_options:\r\n    title: \r\n      no_downcase: true\r\n      \r\n    description:\r\n
+      \     config:\r\n        toolbar_type: advanced   \r\n\r\n    tag_select_allow_roles_access:\r\n
+      \     <<: *tag_select_allow_roles_access\r\n      \r\n\r\n  creatable_if: \r\n
+      \   never: true\r\n    \r\n  editable_if:\r\n    always: true\r\n    \r\n  showable_if:\r\n
+      \   any:\r\n      this:\r\n        tag_select_allow_roles_access: \r\n          condition:
+      '&&'\r\n          value: current_user_role_names\r\n      user:\r\n        role_name:
+      \r\n          - editor\r\n\r\n\r\n  caption_before:\r\n    notes: Click *Save*
+      to create an attachments block\r\n\r\n  show_if:\r\n    data:\r\n      current_mode:
+      edit\r\n      \r\n  view_options:\r\n    extra_class: row-icons\r\n    data_attribute:
+      title\r\n    hide_unless_creatable: true\r\n\r\n########################################\r\n#
       Supporting Files \r\n########################################\r\nsupporting_files:
-      \r\n  <<: *files_activity\r\n#  creatable_if: \r\n#    never: true\r\n    \r\n
-      \ caption_before:\r\n    notes: Notes related to uploaded files\r\n\r\n  view_options:\r\n
-      \   alt_width_classes: col-md-18 col-lg-18 col-md-offset-3 prevent_nfs_resize
-      standalone-page-design\r\n\r\n  showable_if:\r\n    all:\r\n      this:\r\n
-      \       disabled: false\r\n\r\n\r\n########################################\r\n#
+      \r\n  <<: *files_activity\r\n    \r\n  caption_before:\r\n    notes: Notes related
+      to uploaded files\r\n\r\n  view_options:\r\n    alt_width_classes: resized-width
+      col-md-18 col-lg-18 col-md-offset-3 prevent_nfs_resize standalone-page-design\r\n\r\n\r\n########################################\r\n#
       Common Parts\r\n########################################\r\ncommon_parts:\r\n
-      \ label: Common Parts\r\n  \r\n  fields:\r\n    - title\r\n    - disabled\r\n\r\n
-      \ field_options:\r\n    title: \r\n      no_downcase: true\r\n\r\n  editable_if:\r\n
-      \   always: true\r\n    \r\n  showable_if:\r\n    all:\r\n      this:\r\n        disabled:
-      false\r\n      user:\r\n        role_name: \r\n          - editor\r\n\r\n  caption_before:
-      \     \r\n    title: Title\r\n\r\n  references:\r\n    dynamic_model__study_common_sections:\r\n
-      \     label: Section\r\n      from: this\r\n      add: many\r\n      order_by:
-      \r\n        position_number: asc\r\n        \r\n      view_as:\r\n        new:
-      not_embedded\r\n        edit: not_embedded\r\n        \r\n\r\n  view_options:\r\n
-      \   alt_width_classes: col-md-18 col-lg-18 col-md-offset-3 prevent_nfs_resize
-      standalone-page-design\r\n    extra_class: flex-captions\r\n\r\n"
+      \ label: Common Parts\r\n  \r\n  fields:\r\n    - title\r\n\r\n  field_options:\r\n
+      \   title: \r\n      no_downcase: true\r\n\r\n  editable_if:\r\n    always:
+      true\r\n    \r\n  showable_if:\r\n    any:\r\n      user:\r\n        role_name:
+      \r\n          - editor\r\n\r\n  caption_before:      \r\n    title: Title\r\n\r\n
+      \ references:\r\n    dynamic_model__study_common_sections:\r\n      label: Section\r\n
+      \     from: this\r\n      add: many\r\n      order_by: \r\n        position_number:
+      asc\r\n        \r\n      view_as:\r\n        new: not_embedded\r\n        edit:
+      not_embedded\r\n        \r\n\r\n  view_options:\r\n    alt_width_classes: col-md-18
+      col-lg-18 col-md-offset-3 prevent_nfs_resize standalone-page-design\r\n    extra_class:
+      flex-captions\r\n\r\n"
     hide_item_list_panel: true
     main_log_name: ''
     process_name: ''
@@ -1093,43 +1096,49 @@ app_type:
     schema_name: study_info
     user_email: 
   associated_dynamic_models:
-  - id: 2
+  - id: 156
     name: Page Section
     table_name: study_page_sections
     schema_name: study_info
     primary_key_name: id
-    foreign_key_name: ''
+    foreign_key_name: master_id
     description: ''
-    admin_id: 23
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.569Z'
-    updated_at: '2021-01-09T21:35:06.569Z'
+    created_at: '2021-01-15T15:11:36.870Z'
+    updated_at: '2021-01-15T18:13:01.713Z'
     position: 
     category: study-info
     table_key_name: ''
-    field_list: title content position_number block_width extra_classes
+    field_list: title content position_number block_width extra_classes tag_select_allow_roles_access
     result_order: id desc
-    options: "default:\r\n\r\n  view_options:\r\n    data_attribute: title\r\n    extra_class:
-      flex-captions\r\n    \r\n  field_options:\r\n    title:\r\n      placeholder:
-      Title\r\n      no_downcase: true\r\n      \r\n    content:\r\n      edit_as:\r\n
-      \       field_type: notes\r\n      config:\r\n        toolbar_type: advanced\r\n
-      \   \r\n    block_width:\r\n      edit_as: \r\n        field_type: select_block_width\r\n
-      \       alt_options:\r\n          - '25%'\r\n          - '33%'\r\n          -
-      '50%'\r\n          - '100%'\r\n          - 'auto'\r\n\r\n  caption_before:\r\n
-      \   title: Title\r\n    content: Content\r\n    position_number: Position\r\n
-      \   block_width: Width\r\n    extra_classes: Extra CSS classes"
+    options: "# @library study_info defaults\r\n\r\ndefault:\r\n\r\n  showable_if:\r\n
+      \   any:\r\n      this:\r\n        tag_select_allow_roles_access: \r\n          condition:
+      '&&'\r\n          value: current_user_role_names\r\n      user:\r\n        role_name:
+      \r\n          - editor\r\n\r\n\r\n\r\n  view_options:\r\n    data_attribute:
+      title\r\n    extra_class: flex-captions\r\n\r\n\r\n  field_options:\r\n    title:\r\n
+      \     placeholder: Title\r\n      no_downcase: true\r\n      \r\n    content:\r\n
+      \     edit_as:\r\n        field_type: notes\r\n      config:\r\n        toolbar_type:
+      advanced\r\n    \r\n    block_width:\r\n      edit_as: \r\n        field_type:
+      select_block_width\r\n        alt_options:\r\n          - '25%'\r\n          -
+      '33%'\r\n          - '50%'\r\n          - '100%'\r\n          - 'auto'\r\n\r\n
+      \   tag_select_allow_roles_access:\r\n      <<: *tag_select_allow_roles_access\r\n
+      \     value: \r\n        referring_record:\r\n          tag_select_allow_roles_access:
+      return_value\r\n\r\n  caption_before:\r\n    title: Title\r\n    content: Content\r\n
+      \   position_number: Position\r\n    block_width: Width\r\n    extra_classes:
+      Extra CSS classes\r\n    tag_select_allow_roles_access: Allow Roles Access\r\n"
     user_email: 
-  - id: 3
+  - id: 157
     name: Common Section
     table_name: study_common_sections
     schema_name: study_info
     primary_key_name: id
     foreign_key_name: ''
     description: ''
-    admin_id: 23
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.637Z'
-    updated_at: '2021-01-09T21:35:06.637Z'
+    created_at: '2021-01-15T15:11:37.018Z'
+    updated_at: '2021-01-15T15:11:37.018Z'
     position: 
     category: study-info
     table_key_name: ''
@@ -1146,9 +1155,9 @@ app_type:
       \   block_width: Width\r\n    extra_classes: Extra CSS classes\r\n    "
     user_email: 
   associated_external_identifiers:
-  - id: 8
+  - id: 14
     name: study_info_parts
-    label: Library
+    label: Study Info Part
     external_id_attribute: study_info_id
     external_id_view_formatter: ''
     external_id_edit_pattern: ''
@@ -1156,18 +1165,18 @@ app_type:
     pregenerate_ids: false
     min_id: 
     max_id: 
-    admin_id: 23
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.700Z'
-    updated_at: '2021-01-09T21:35:06.700Z'
+    created_at: '2021-01-15T15:11:37.100Z'
+    updated_at: '2021-01-15T15:11:37.100Z'
     alphanumeric: true
     extra_fields: ''
     category: study-info
     schema_name: study_info
-    options: "default:\r\n  caption_before:\r\n    study_info_id: Library Name"
+    options: "default:\r\n  caption_before:\r\n    study_info_id: Part Name"
     user_email: 
   associated_reports:
-  - id: 33
+  - id: 113
     name: Q2 Data Dictionary
     description: "Variables can be uniquely identified by the *domain* and \r\n*variable
       name*. Note this information if you are considering making a data request, \r\nin
@@ -1190,10 +1199,10 @@ app_type:
       pain\r\n      tracking: tracking\r\n\r\nname_or_label_contains: \r\n  text:
       \r\n    all: true\r\n    multiple: single\r\n    disabled: false\r\n    \r\n
       \   "
-    admin_id: 23
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.873Z'
-    updated_at: '2021-01-09T21:35:06.873Z'
+    created_at: '2020-08-24T16:30:25.463Z'
+    updated_at: '2021-01-15T15:11:37.327Z'
     report_type: regular_report
     auto: true
     searchable: false
@@ -1211,7 +1220,7 @@ app_type:
       \   selected: true\r\n  \r\nview_css:\r\n  classes:\r\n    table-header.select-items
       .table-header-col-type: \r\n      display: 'none'"
     user_email: 
-  - id: 34
+  - id: 114
     name: Q1 Data Dictionary
     description: "Variables can be uniquely identified by the *domain* and \r\n*variable
       name*. Note this information if you are considering making a data request, \r\nin
@@ -1230,10 +1239,10 @@ app_type:
       multiple\r\n    disabled: false\r\n    selections: \r\n      q1 data: football_players_health_study_questionnaire_1\r\n\r\nname_or_label_contains:
       \r\n  text: \r\n    all: true\r\n    multiple: single\r\n    disabled: false\r\n
       \   \r\n    "
-    admin_id: 23
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.881Z'
-    updated_at: '2021-01-09T21:35:06.881Z'
+    created_at: '2020-08-24T17:25:17.697Z'
+    updated_at: '2020-08-25T09:36:49.591Z'
     report_type: regular_report
     auto: true
     searchable: false
@@ -1251,15 +1260,15 @@ app_type:
       \   selected: true\r\n  \r\nview_css:\r\n  classes:\r\n    table-header.select-items
       .table-header-col-type: \r\n      display: 'none'"
     user_email: 
-  - id: 35
+  - id: 130
     name: Study Info Parts
     description: ''
     sql: "select * from study_info_parts sip;\r\n"
     search_attrs: ''
-    admin_id: 23
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.888Z'
-    updated_at: '2021-01-09T21:35:06.888Z'
+    created_at: '2021-01-15T15:11:37.340Z'
+    updated_at: '2021-01-15T15:11:37.340Z'
     report_type: search
     auto: true
     searchable: true
@@ -1271,7 +1280,7 @@ app_type:
     short_name: study_info_parts
     options: ''
     user_email: 
-  - id: 36
+  - id: 131
     name: Study Info Page
     description: ''
     sql: "select * from activity_log_study_info_parts sip\r\nwhere \r\nextra_log_type
@@ -1279,10 +1288,10 @@ app_type:
       1;\r\n"
     search_attrs: "\r\n\r\nslug: \r\n  text: \r\n    all: true\r\n    multiple: single\r\n
       \   disabled: false"
-    admin_id: 23
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.893Z'
-    updated_at: '2021-01-09T21:35:06.893Z'
+    created_at: '2021-01-15T15:11:37.346Z'
+    updated_at: '2021-01-15T15:11:37.346Z'
     report_type: search
     auto: true
     searchable: true
@@ -1294,35 +1303,37 @@ app_type:
     short_name: study_info_page
     options: ''
     user_email: 
-  - id: 37
+  - id: 132
     name: Search for a Page
     description: ''
-    sql: "select distinct \r\n\r\n'[' || alsip.title || ']' ||\r\n'(/content/page/'
+    sql: "select  \r\n\r\ndistinct on (result)\r\n\r\n'[' || alsip.title || ']' ||\r\n'(/content/page/'
       || sip.study_info_id || '/' || alsip.slug || ')' result\r\n,\r\n\r\nCASE \r\nWHEN
-      sps.title ~* :search OR sps.content ~* :search\r\nTHEN sps.title || '\r\n' ||
-      left(sps.content, 400)\r\nWHEN alsip.title ~* :search OR alsip.description ~*
-      :search\r\nTHEN alsip.title || '\r\n' || left(alsip.description, 400)\r\nWHEN
-      nssf.title ~* :search OR nssf.description ~* :search\r\nTHEN nssf.title || '\r\n'
-      || left(nssf.description, 400)\r\nEND\r\ndescription\r\n\r\nfrom activity_log_study_info_parts
-      alsip\r\n\r\ninner join study_info_parts sip\r\non sip.master_id = alsip.master_id\r\n\r\nleft
-      join model_references mr\r\non \r\n  NOT coalesce(mr.disabled, false)  \r\n
-      \ AND mr.from_record_type = 'ActivityLog::StudyInfoPart'\r\n  AND mr.to_record_type
-      = 'DynamicModel::StudyPageSection'\r\n  AND alsip.id = mr.from_record_id\r\n
-      \ \r\nleft join study_page_sections sps\r\non\r\n  sps.id = mr.to_record_id\r\n\r\nleft
-      join model_references mr2\r\non \r\n  NOT coalesce(mr2.disabled, false)  \r\n
-      \ AND mr2.from_record_type = 'ActivityLog::StudyInfoPart'\r\n  AND mr2.to_record_type
-      = 'NfsStore::Manage::Container'\r\n  AND alsip.id = mr2.from_record_id\r\n  \r\nleft
-      join nfs_store_containers nsc\r\non\r\n  nsc.id = mr2.to_record_id\r\n\r\nleft
+      sps.title ~* replace(:search, ' ', '|') OR sps.content ~* replace(:search, '
+      ', '|')\r\nTHEN sps.title || '\r\n' || left(sps.content, 250)\r\nWHEN alsip.title
+      ~* replace(:search, ' ', '|') OR alsip.description ~* replace(:search, ' ',
+      '|')\r\nTHEN alsip.title || '\r\n' || left(alsip.description, 150)\r\nWHEN nssf.title
+      ~* replace(:search, ' ', '|') OR nssf.description ~* replace(:search, ' ', '|')\r\nTHEN
+      nssf.title || '\r\n' || left(nssf.description, 150)\r\nEND\r\n\r\ndescription\r\n\r\nfrom
+      activity_log_study_info_parts alsip\r\n\r\ninner join study_info_parts sip\r\non
+      sip.master_id = alsip.master_id\r\n\r\nleft join model_references mr\r\non \r\n
+      \ NOT coalesce(mr.disabled, false)  \r\n  AND mr.from_record_type = 'ActivityLog::StudyInfoPart'\r\n
+      \ AND mr.to_record_type = 'DynamicModel::StudyPageSection'\r\n  AND alsip.id
+      = mr.from_record_id\r\n  \r\nleft join study_page_sections sps\r\non\r\n  sps.id
+      = mr.to_record_id\r\n\r\nleft join model_references mr2\r\non \r\n  NOT coalesce(mr2.disabled,
+      false)  \r\n  AND mr2.from_record_type = 'ActivityLog::StudyInfoPart'\r\n  AND
+      mr2.to_record_type = 'NfsStore::Manage::Container'\r\n  AND alsip.id = mr2.from_record_id\r\n
+      \ \r\nleft join nfs_store_containers nsc\r\non\r\n  nsc.id = mr2.to_record_id\r\n\r\nleft
       join nfs_store_stored_files nssf\r\non\r\n  nssf.nfs_store_container_id = nsc.id\r\n\r\nwhere
-      \r\nalsip.title ~* :search\r\nOR alsip.description ~* :search\r\n\r\nOR sps.title
-      ~* :search\r\nOR sps.content ~* :search\r\n\r\nOR nssf.title ~* :search\r\nOR
-      nssf.description ~* :search\r\n\r\n\r\nLIMIT 20;\r\n"
+      \r\nalsip.title ~* replace(:search, ' ', '|')\r\nOR alsip.description ~* replace(:search,
+      ' ', '|')\r\n\r\nOR sps.title ~* replace(:search, ' ', '|')\r\nOR sps.content
+      ~* replace(:search, ' ', '|')\r\n\r\nOR nssf.title ~* replace(:search, ' ',
+      '|')\r\nOR nssf.description ~* replace(:search, ' ', '|')\r\n\r\n\r\nLIMIT 20;\r\n"
     search_attrs: "\r\n\r\nsearch: \r\n  text: \r\n    all: true\r\n    multiple:
-      single\r\n    disabled: false"
-    admin_id: 23
+      single\r\n    #single\r\n    disabled: false\r\n\r\n"
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.899Z'
-    updated_at: '2021-01-09T21:35:06.899Z'
+    created_at: '2021-01-15T15:11:37.354Z'
+    updated_at: '2021-01-15T15:11:37.354Z'
     report_type: regular_report
     auto: false
     searchable: false
@@ -1338,8 +1349,8 @@ app_type:
     user_email: 
   associated_general_selections: []
   page_layouts:
-  - id: 4
-    app_type_id: 64
+  - id: 50
+    app_type_id: 25
     layout_name: view
     panel_name: page
     panel_label: Page
@@ -1360,44 +1371,49 @@ app_type:
       12px 20%\r\n      width: auto\r\n      bottom: 0px\r\n      border-top: 3px
       solid gray\r\n      margin-top: 2.4em\r\n      \r\n    .footer a:\r\n      color:
       rgb(60,60,60)\r\n      \r\n    .footer ul:\r\n      display: flex\r\n      flex-direction:
-      row\r\n     \r\n      \r\n    .footer ul li:\r\n      padding: 0 1.5em\r\n      flex-grow:
-      1\r\n      \r\n    .footer h4:\r\n      text-align: right;\r\n      font-size:
-      87%;\r\n      line-height: 1.2em;\r\n      font-weight: bold;\r\n\r\n    \r\n
-      \   .page-item-container:\r\n      min-height: 93.5vh\r\n    \r\n    .reset-row
-      .result-target:\r\n      margin: 0\r\n      \r\n    .notes-text th:\r\n      word-break:
-      normal\r\n      vertical-align: top\r\n      \r\n    \".notes-text th:first-child\":\r\n
-      \     width: 25%\r\n\r\n    .notes-text tr:\r\n      word-break: normal\r\n\r\n
-      \   .icon-rows .container-icons-items .container-icons-folder-items:\r\n      display:
-      block\r\n      \r\n    \r\n    .icon-rows .container-icons-items .container-icons-folder-items
-      .container-icons-entry:\r\n      width: auto\r\n      text-align: left\r\n\r\n
-      \   .icon-rows .container-icons-items .container-icons-folder-items .container-icons-entry
-      .browse-icon:\r\n      float: left;\r\n      margin-right: 4%;\r\n\r\n    .icon-rows
+      row\r\n     \r\n      \r\n    .footer ul li:\r\n      padding: 0 0.25em\r\n
+      \     flex-grow: 1\r\n      list-style: none\r\n      \r\n    .footer h4:\r\n
+      \     text-align: right;\r\n      font-size: 87%;\r\n      line-height: 1.2em;\r\n
+      \     font-weight: bold;\r\n\r\n    \r\n    .page-item-container:\r\n      min-height:
+      93.5vh\r\n    \r\n    .reset-row .result-target:\r\n      margin: 0\r\n      \r\n
+      \   .notes-text th:\r\n      word-break: normal\r\n      vertical-align: top\r\n
+      \     \r\n    \".notes-text th:first-child\":\r\n      width: 25%\r\n\r\n    .notes-text
+      tr:\r\n      word-break: normal\r\n\r\n    .icon-rows .container-icons-items
+      .container-icons-folder-items:\r\n      display: block\r\n      \r\n    \r\n
+      \   .icon-rows .container-icons-items .container-icons-folder-items .container-icons-entry:\r\n
+      \     width: auto\r\n      text-align: left\r\n\r\n    .icon-rows .container-icons-items
+      .container-icons-folder-items .container-icons-entry .browse-icon:\r\n      float:
+      left;\r\n      margin-right: 4%;\r\n\r\n    .icon-rows .container-icons-items
+      .container-icons-folder-items .container-icons-entry .browse-entry-meta .bem-mime-type:\r\n
+      \     display: inline-block\r\n      padding-right: 1em\r\n      \r\n    .icon-rows
       .container-icons-items .container-icons-folder-items .container-icons-entry
-      .browse-entry-meta .bem-mime-type:\r\n      display: inline-block\r\n      padding-right:
-      1em\r\n      \r\n    .icon-rows .container-icons-items .container-icons-folder-items
-      .container-icons-entry .browse-filename:\r\n      padding-left: 0\r\n      \r\n
-      \     \r\n    .headers-left .notes-text table:\r\n      width: 60%\r\n      "
+      .browse-filename:\r\n      padding-left: 0\r\n      \r\n      \r\n    .headers-left
+      .notes-text table:\r\n      width: 60%\r\n      \r\n    .headers-left .notes-text
+      > ul:\r\n      width: 60%\r\n    \r\n    \r\n    .headers-left .notes-text >
+      ul > li:\r\n      list-style: none\r\n      \r\n    .headers-left .notes-text
+      > ul > li > ul > li:\r\n      list-style-type: disc\r\n      list-style-position:
+      outside\r\n      \r\n"
     disabled: false
-    admin_id: 23
-    created_at: '2021-01-09T21:35:06.910Z'
-    updated_at: '2021-01-09T21:35:06.910Z'
+    admin_id: 4
+    created_at: '2021-01-15T15:11:37.366Z'
+    updated_at: '2021-01-15T17:52:17.098Z'
     description: ''
     user_email: 
-  - id: 5
-    app_type_id: 64
+  - id: 51
+    app_type_id: 25
     layout_name: master
     panel_name: study-info-pages
     panel_label: Pages
     panel_position: 2
     options: "contains: \r\n  resources:\r\n  - activity_log__study_info_parts"
     disabled: false
-    admin_id: 23
-    created_at: '2021-01-09T21:35:06.923Z'
-    updated_at: '2021-01-09T21:35:06.923Z'
+    admin_id: 4
+    created_at: '2021-01-15T15:11:37.387Z'
+    updated_at: '2021-01-15T15:11:37.387Z'
     description: ''
     user_email: 
-  - id: 6
-    app_type_id: 64
+  - id: 52
+    app_type_id: 25
     layout_name: master
     panel_name: external-ids
     panel_label: Library Name
@@ -1405,86 +1421,159 @@ app_type:
     options: "contains:\r\n  categories:\r\n  - external-ids\r\n\r\n#tab:\r\n#  parent:
       participant_details"
     disabled: false
-    admin_id: 23
-    created_at: '2021-01-09T21:35:06.930Z'
-    updated_at: '2021-01-09T21:35:06.930Z'
+    admin_id: 4
+    created_at: '2021-01-15T15:11:37.397Z'
+    updated_at: '2021-01-15T15:11:37.397Z'
     description: ''
     user_email: 
-  - id: 7
-    app_type_id: 64
+  - id: 53
+    app_type_id: 25
     layout_name: nav
     panel_name: page
     panel_label: Links
     panel_position: 1
-    options: "nav:\r\n  links:\r\n    - label: Home\r\n      icon: home\r\n      url:
-      /content/page/study-content/research-extranet\r\n      resource_name: view_pages\r\n
-      \     resource_type: general\r\n    - label: Search\r\n      url: /reports/study_info__search_for_a_page
-      \r\n      resource_name: study_info__search_for_a_page\r\n      resource_type:
-      report\r\n      icon: search"
+    options: "      \r\nnav:\r\n  links:\r\n    - label: Home\r\n      icon: home\r\n
+      \     url: /content/page/external-information/fphs-investigator-intranet\r\n
+      \     resource_name: view_pages\r\n      resource_type: general\r\n    - label:
+      Search\r\n      url: /reports/study_info__search_for_a_page \r\n      resource_name:
+      study_info__search_for_a_page\r\n      resource_type: report\r\n      icon:
+      search      "
     disabled: false
-    admin_id: 23
-    created_at: '2021-01-09T21:35:06.938Z'
-    updated_at: '2021-01-09T21:35:06.938Z'
+    admin_id: 4
+    created_at: '2021-01-15T15:11:37.406Z'
+    updated_at: '2021-01-15T15:11:37.406Z'
     description: ''
     user_email: 
   user_roles:
-  - id: 19
-    app_type_id: 64
+  - id: 1811
+    app_type_id: 25
     role_name: editor
-    user_id: 123
-    admin_id: 23
+    user_id: 71
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.948Z'
-    updated_at: '2021-01-09T21:35:06.948Z'
+    created_at: '2021-01-15T15:11:37.416Z'
+    updated_at: '2021-01-15T15:11:37.416Z'
     user_email: template@template
-  - id: 20
-    app_type_id: 64
+  - id: 1812
+    app_type_id: 25
     role_name: _app_
-    user_id: 123
-    admin_id: 23
+    user_id: 71
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.965Z'
-    updated_at: '2021-01-09T21:35:06.965Z'
+    created_at: '2021-01-15T15:11:37.448Z'
+    updated_at: '2021-01-15T15:11:37.448Z'
     user_email: template@template
-  - id: 21
-    app_type_id: 64
+  - id: 1813
+    app_type_id: 25
     role_name: nfs_store group 600
-    user_id: 123
-    admin_id: 23
+    user_id: 71
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.977Z'
-    updated_at: '2021-01-09T21:35:06.977Z'
+    created_at: '2021-01-15T15:11:37.461Z'
+    updated_at: '2021-01-15T15:11:37.461Z'
     user_email: template@template
-  - id: 22
-    app_type_id: 64
+  - id: 1814
+    app_type_id: 25
     role_name: basic-viewer
-    user_id: 123
-    admin_id: 23
+    user_id: 71
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:06.989Z'
-    updated_at: '2021-01-09T21:35:06.989Z'
+    created_at: '2021-01-15T15:11:37.472Z'
+    updated_at: '2021-01-15T15:11:37.472Z'
     user_email: template@template
-  - id: 23
-    app_type_id: 64
+  - id: 1815
+    app_type_id: 25
     role_name: nfs_store group 600
-    user_id: 122
-    admin_id: 23
+    user_id: 1
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:07.000Z'
-    updated_at: '2021-01-09T21:35:07.000Z'
-    user_email: phil.ayres@consected.com
-  - id: 24
-    app_type_id: 64
+    created_at: '2021-01-15T15:11:37.485Z'
+    updated_at: '2021-01-15T15:11:37.485Z'
+    user_email: phil_ayres@hms.harvard.edu
+  - id: 1816
+    app_type_id: 25
     role_name: editor
-    user_id: 122
-    admin_id: 23
+    user_id: 1
+    admin_id: 4
     disabled: false
-    created_at: '2021-01-09T21:35:07.011Z'
-    updated_at: '2021-01-09T21:35:07.011Z'
-    user_email: phil.ayres@consected.com
+    created_at: '2021-01-15T15:11:37.498Z'
+    updated_at: '2021-01-15T15:11:37.498Z'
+    user_email: phil_ayres@hms.harvard.edu
+  - id: 1817
+    app_type_id: 25
+    role_name: editor
+    user_id: 35
+    admin_id: 4
+    disabled: false
+    created_at: '2021-01-15T17:57:19.389Z'
+    updated_at: '2021-01-15T17:57:19.389Z'
+    user_email: dean_marengi@hms.harvard.edu
+  - id: 1818
+    app_type_id: 25
+    role_name: nfs_store group 600
+    user_id: 35
+    admin_id: 4
+    disabled: false
+    created_at: '2021-01-15T17:57:19.405Z'
+    updated_at: '2021-01-15T17:57:19.405Z'
+    user_email: dean_marengi@hms.harvard.edu
+  - id: 1819
+    app_type_id: 25
+    role_name: editor
+    user_id: 95
+    admin_id: 4
+    disabled: false
+    created_at: '2021-01-15T17:57:29.086Z'
+    updated_at: '2021-01-15T17:57:29.086Z'
+    user_email: heather_digregorio@hms.harvard.edu
+  - id: 1820
+    app_type_id: 25
+    role_name: nfs_store group 600
+    user_id: 95
+    admin_id: 4
+    disabled: false
+    created_at: '2021-01-15T17:57:29.096Z'
+    updated_at: '2021-01-15T17:57:29.096Z'
+    user_email: heather_digregorio@hms.harvard.edu
+  - id: 1821
+    app_type_id: 25
+    role_name: editor
+    user_id: 107
+    admin_id: 4
+    disabled: false
+    created_at: '2021-01-15T17:57:39.526Z'
+    updated_at: '2021-01-15T17:57:39.526Z'
+    user_email: bir_kafle@hms.harvard.edu
+  - id: 1822
+    app_type_id: 25
+    role_name: nfs_store group 600
+    user_id: 107
+    admin_id: 4
+    disabled: false
+    created_at: '2021-01-15T17:57:39.541Z'
+    updated_at: '2021-01-15T17:57:39.541Z'
+    user_email: bir_kafle@hms.harvard.edu
+  - id: 1823
+    app_type_id: 25
+    role_name: basic-viewer
+    user_id: 119
+    admin_id: 4
+    disabled: false
+    created_at: '2021-01-15T17:59:34.287Z'
+    updated_at: '2021-01-15T17:59:34.287Z'
+    user_email: test-viewer@test
+  - id: 1824
+    app_type_id: 25
+    role_name: nfs_store group 600
+    user_id: 119
+    admin_id: 4
+    disabled: false
+    created_at: '2021-01-15T17:59:48.406Z'
+    updated_at: '2021-01-15T17:59:48.406Z'
+    user_email: test-viewer@test
   associated_message_templates: []
   associated_config_libraries:
-  - id: 2
+  - id: 32
     category: common
     name: filestore_container
     options: "_definitions:\r\n\r\n  ref_filestore_container: &ref_filestore_container\r\n
@@ -1504,4047 +1593,724 @@ app_type:
       \   references:\r\n      - nfs_store__manage__container:\r\n          <<: *ref_nfs_store__manage__container\r\n"
     format: yaml
     disabled: false
-    admin_id: 23
-    created_at: '2021-01-09T21:35:06.546Z'
-    updated_at: '2021-01-09T21:35:06.546Z'
+    admin_id: 4
+    created_at: '2020-08-24T16:30:24.548Z'
+    updated_at: '2021-01-15T15:11:36.864Z'
+    user_email: 
+  - id: 53
+    category: study_info
+    name: defaults
+    options: "_definitions_si:\r\n\r\n    tag_select_allow_roles_access: &tag_select_allow_roles_access\r\n
+      \     edit_as:\r\n        alt_options:\r\n          - basic-viewer\r\n          -
+      advanced-viewer\r\n          - editor\r\n  "
+    format: yaml
+    disabled: false
+    admin_id: 4
+    created_at: '2021-01-15T18:12:53.418Z'
+    updated_at: '2021-01-15T18:34:38.347Z'
     user_email: 
   associated_protocols:
-  - id: 1
-    name: Updates
-    created_at: '2021-01-05T23:29:36.329Z'
-    updated_at: '2021-01-09T21:35:07.064Z'
-    disabled: false
-    admin_id: 23
-    position: 100
-    app_type_id: 
-    user_email: 
   - id: 2
-    name: Brain Health Study
-    created_at: '2021-01-05T23:38:00.659Z'
-    updated_at: '2021-01-05T23:38:00.659Z'
-    disabled: false
-    admin_id: 1
-    position: -20
-    app_type_id: 
-    user_email: 
-  - id: 3
     name: GRIT
-    created_at: '2021-01-05T23:38:00.667Z'
-    updated_at: '2021-01-05T23:38:00.667Z'
+    created_at: '2020-09-11T08:49:27.066Z'
+    updated_at: '2020-09-11T08:49:27.066Z'
     disabled: false
-    admin_id: 1
+    admin_id: 4
     position: -15
     app_type_id: 
     user_email: 
-  - id: 4
-    name: In-Person Assessment
-    created_at: '2021-01-05T23:38:00.674Z'
-    updated_at: '2021-01-05T23:38:00.674Z'
-    disabled: false
-    admin_id: 1
-    position: -10
-    app_type_id: 
-    user_email: 
-  - id: 5
-    name: Personal Network
-    created_at: '2021-01-05T23:38:00.686Z'
-    updated_at: '2021-01-05T23:38:00.686Z'
-    disabled: false
-    admin_id: 1
-    position: 0
-    app_type_id: 
-    user_email: 
-  - id: 6
-    name: Q1
-    created_at: '2021-01-05T23:38:00.693Z'
-    updated_at: '2021-01-05T23:38:00.693Z'
-    disabled: false
-    admin_id: 1
-    position: 1
-    app_type_id: 
-    user_email: 
-  - id: 7
-    name: Q2
-    created_at: '2021-01-05T23:38:00.701Z'
-    updated_at: '2021-01-05T23:38:00.701Z'
-    disabled: false
-    admin_id: 1
-    position: 2
-    app_type_id: 
-    user_email: 
-  - id: 8
+  - id: 3
     name: Sleep Study Phase 2
-    created_at: '2021-01-05T23:38:00.708Z'
-    updated_at: '2021-01-05T23:38:00.708Z'
+    created_at: '2020-09-11T08:49:27.077Z'
+    updated_at: '2020-09-11T08:49:27.077Z'
     disabled: false
-    admin_id: 1
+    admin_id: 4
     position: 12
     app_type_id: 
     user_email: 
-  - id: 9
+  - id: 4
     name: PITT BHI
-    created_at: '2021-01-05T23:38:00.712Z'
-    updated_at: '2021-01-05T23:38:00.712Z'
+    created_at: '2020-09-11T08:49:27.081Z'
+    updated_at: '2020-09-11T08:49:27.081Z'
     disabled: false
-    admin_id: 1
+    admin_id: 4
     position: 12
-    app_type_id: 
-    user_email: 
-  - id: 10
-    name: Study
-    created_at: '2021-01-05T23:38:00.722Z'
-    updated_at: '2021-01-05T23:38:00.722Z'
-    disabled: false
-    admin_id: 1
-    position: 80
-    app_type_id: 
-    user_email: 
-  - id: 11
-    name: General Awareness
-    created_at: '2021-01-05T23:38:00.729Z'
-    updated_at: '2021-01-05T23:38:00.729Z'
-    disabled: false
-    admin_id: 1
-    position: 90
-    app_type_id: 
-    user_email: 
-  - id: 12
-    name: TeamStudy
-    created_at: '2021-01-05T23:38:00.739Z'
-    updated_at: '2021-01-05T23:38:00.739Z'
-    disabled: false
-    admin_id: 1
-    position: 
-    app_type_id: 
-    user_email: 
-  - id: 13
-    name: Law and Ethics
-    created_at: '2021-01-05T23:38:00.743Z'
-    updated_at: '2021-01-05T23:38:00.743Z'
-    disabled: false
-    admin_id: 1
-    position: 
-    app_type_id: 
-    user_email: 
-  - id: 14
-    name: Sleep Study Phase 1
-    created_at: '2021-01-05T23:38:00.747Z'
-    updated_at: '2021-01-05T23:38:00.747Z'
-    disabled: false
-    admin_id: 1
-    position: 
     app_type_id: 
     user_email: 
   associated_sub_processes:
-  - id: 1
-    name: record updates
-    disabled: 
-    protocol_id: 1
-    admin_id: 23
-    created_at: '2021-01-05T23:29:36.987Z'
-    updated_at: '2021-01-09T21:35:07.088Z'
-    protocol_name: Updates
-    user_email: 
-  - id: 2
-    name: flag updates
-    disabled: 
-    protocol_id: 1
-    admin_id: 23
-    created_at: '2021-01-05T23:29:43.854Z'
-    updated_at: '2021-01-09T21:35:07.098Z'
-    protocol_name: Updates
-    user_email: 
   - id: 4
-    name: Transferred for Screening
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.847Z'
-    updated_at: '2021-01-09T21:35:07.106Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 5
-    name: Sent
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.854Z'
-    updated_at: '2021-01-09T21:35:07.125Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 6
-    name: Complete
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.861Z'
-    updated_at: '2021-01-09T21:35:07.142Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 7
-    name: Opt In
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.868Z'
-    updated_at: '2021-01-09T21:35:07.164Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 8
-    name: Opt Out
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.874Z'
-    updated_at: '2021-01-09T21:35:07.183Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 9
-    name: Bounced
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.881Z'
-    updated_at: '2021-01-09T21:35:07.201Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 10
     name: Inquiry
     disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.887Z'
-    updated_at: '2021-01-09T21:35:07.220Z'
-    protocol_name: PITT BHI
+    protocol_id: 3
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.087Z'
+    updated_at: '2020-09-11T08:49:27.087Z'
+    protocol_name: Sleep Study Phase 2
     user_email: 
-  - id: 11
-    name: Enrolled
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.893Z'
-    updated_at: '2021-01-09T21:35:07.229Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 12
-    name: Withdrew
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.899Z'
-    updated_at: '2021-01-09T21:35:07.281Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 13
-    name: Lost to Follow Up, Not Enrolled
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.905Z'
-    updated_at: '2021-01-09T21:35:07.291Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 14
-    name: Ineligible
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.913Z'
-    updated_at: '2021-01-09T21:35:07.304Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 15
-    name: Eligible
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.919Z'
-    updated_at: '2021-01-09T21:35:07.316Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 16
-    name: Contacted
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.925Z'
-    updated_at: '2021-01-09T21:35:07.328Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 17
-    name: Screened
-    disabled: false
-    protocol_id: 9
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.931Z'
-    updated_at: '2021-01-09T21:35:07.341Z'
-    protocol_name: PITT BHI
-    user_email: 
-  - id: 18
-    name: Screened
+  - id: 5
+    name: Bounced
     disabled: false
     protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.939Z'
-    updated_at: '2021-01-09T21:35:07.355Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.104Z'
+    updated_at: '2020-09-11T08:49:27.104Z'
+    protocol_name: Sleep Study Phase 2
+    user_email: 
+  - id: 6
+    name: Opt In
+    disabled: false
+    protocol_id: 3
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.109Z'
+    updated_at: '2020-09-11T08:49:27.109Z'
+    protocol_name: Sleep Study Phase 2
+    user_email: 
+  - id: 7
+    name: Opt Out
+    disabled: false
+    protocol_id: 3
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.114Z'
+    updated_at: '2020-09-11T08:49:27.114Z'
+    protocol_name: Sleep Study Phase 2
+    user_email: 
+  - id: 8
+    name: Complete
+    disabled: false
+    protocol_id: 3
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.120Z'
+    updated_at: '2020-09-11T08:49:27.120Z'
+    protocol_name: Sleep Study Phase 2
+    user_email: 
+  - id: 9
+    name: Enrolled
+    disabled: false
+    protocol_id: 3
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.125Z'
+    updated_at: '2020-09-11T08:49:27.125Z'
+    protocol_name: Sleep Study Phase 2
+    user_email: 
+  - id: 10
+    name: Withdrew
+    disabled: false
+    protocol_id: 3
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.130Z'
+    updated_at: '2020-09-11T08:49:27.130Z'
+    protocol_name: Sleep Study Phase 2
+    user_email: 
+  - id: 11
+    name: Sent
+    disabled: false
+    protocol_id: 3
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.135Z'
+    updated_at: '2020-09-11T08:49:27.135Z'
+    protocol_name: Sleep Study Phase 2
+    user_email: 
+  - id: 12
+    name: Sent
+    disabled: false
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.142Z'
+    updated_at: '2020-09-11T08:49:27.142Z'
+    protocol_name: GRIT
+    user_email: 
+  - id: 13
+    name: Complete
+    disabled: false
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.149Z'
+    updated_at: '2020-09-11T08:49:27.149Z'
+    protocol_name: GRIT
+    user_email: 
+  - id: 14
+    name: Opt In
+    disabled: false
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.156Z'
+    updated_at: '2020-09-11T08:49:27.156Z'
+    protocol_name: GRIT
+    user_email: 
+  - id: 15
+    name: Opt Out
+    disabled: false
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.162Z'
+    updated_at: '2020-09-11T08:49:27.162Z'
+    protocol_name: GRIT
+    user_email: 
+  - id: 16
+    name: Bounced
+    disabled: false
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.168Z'
+    updated_at: '2020-09-11T08:49:27.168Z'
+    protocol_name: GRIT
+    user_email: 
+  - id: 17
+    name: Inquiry
+    disabled: false
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.175Z'
+    updated_at: '2020-09-11T08:49:27.175Z'
+    protocol_name: GRIT
+    user_email: 
+  - id: 18
+    name: Enrolled
+    disabled: false
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.184Z'
+    updated_at: '2020-09-11T08:49:27.184Z'
     protocol_name: GRIT
     user_email: 
   - id: 19
-    name: Contacted
+    name: Withdrew
     disabled: false
-    protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.947Z'
-    updated_at: '2021-01-09T21:35:07.366Z'
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.190Z'
+    updated_at: '2020-09-11T08:49:27.190Z'
     protocol_name: GRIT
     user_email: 
   - id: 20
-    name: Eligible
+    name: Lost to Follow Up, Not Enrolled
     disabled: false
-    protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.954Z'
-    updated_at: '2021-01-09T21:35:07.377Z'
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.195Z'
+    updated_at: '2020-09-11T08:49:27.195Z'
     protocol_name: GRIT
     user_email: 
   - id: 21
-    name: Ineligible
+    name: Screened
     disabled: false
     protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.962Z'
-    updated_at: '2021-01-09T21:35:07.390Z'
-    protocol_name: GRIT
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.200Z'
+    updated_at: '2020-09-11T08:49:27.200Z'
+    protocol_name: Sleep Study Phase 2
     user_email: 
   - id: 22
-    name: Lost to Follow Up, Not Enrolled
+    name: Eligible
     disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:00.969Z'
-    updated_at: '2021-01-09T21:35:07.401Z'
+    protocol_id: 3
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.205Z'
+    updated_at: '2020-09-11T08:49:27.205Z'
     protocol_name: Sleep Study Phase 2
     user_email: 
   - id: 23
-    name: Scheduled
+    name: Ineligible
     disabled: false
-    protocol_id: 4
-    admin_id: 1
-    created_at: '2021-01-05T23:38:00.975Z'
-    updated_at: '2021-01-05T23:38:00.975Z'
-    protocol_name: In-Person Assessment
+    protocol_id: 3
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.210Z'
+    updated_at: '2020-09-11T08:49:27.210Z'
+    protocol_name: Sleep Study Phase 2
     user_email: 
   - id: 24
-    name: Ineligible
-    disabled: false
-    protocol_id: 4
-    admin_id: 1
-    created_at: '2021-01-05T23:38:00.990Z'
-    updated_at: '2021-01-05T23:38:00.990Z'
-    protocol_name: In-Person Assessment
-    user_email: 
-  - id: 25
-    name: Eligible
-    disabled: false
-    protocol_id: 4
-    admin_id: 1
-    created_at: '2021-01-05T23:38:00.999Z'
-    updated_at: '2021-01-05T23:38:00.999Z'
-    protocol_name: In-Person Assessment
-    user_email: 
-  - id: 26
     name: Contacted
     disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.010Z'
-    updated_at: '2021-01-09T21:35:07.413Z'
+    protocol_id: 3
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.215Z'
+    updated_at: '2020-09-11T08:49:27.215Z'
     protocol_name: Sleep Study Phase 2
     user_email: 
-  - id: 27
+  - id: 25
+    name: Lost to Follow Up, Not Enrolled
+    disabled: false
+    protocol_id: 3
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.221Z'
+    updated_at: '2020-09-11T08:49:27.221Z'
+    protocol_name: Sleep Study Phase 2
+    user_email: 
+  - id: 26
     name: Ineligible
     disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.020Z'
-    updated_at: '2021-01-09T21:35:07.425Z'
-    protocol_name: Sleep Study Phase 2
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.227Z'
+    updated_at: '2020-09-11T08:49:27.227Z'
+    protocol_name: GRIT
     user_email: 
-  - id: 28
+  - id: 27
     name: Eligible
     disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.033Z'
-    updated_at: '2021-01-09T21:35:07.436Z'
-    protocol_name: Sleep Study Phase 2
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.233Z'
+    updated_at: '2020-09-11T08:49:27.233Z'
+    protocol_name: GRIT
+    user_email: 
+  - id: 28
+    name: Contacted
+    disabled: false
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.241Z'
+    updated_at: '2020-09-11T08:49:27.241Z'
+    protocol_name: GRIT
     user_email: 
   - id: 29
     name: Screened
     disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.041Z'
-    updated_at: '2021-01-09T21:35:07.450Z'
-    protocol_name: Sleep Study Phase 2
+    protocol_id: 2
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.250Z'
+    updated_at: '2020-09-11T08:49:27.250Z'
+    protocol_name: GRIT
     user_email: 
   - id: 30
-    name: Lost to Follow Up, Not Enrolled
+    name: Screened
     disabled: false
-    protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.050Z'
-    updated_at: '2021-01-09T21:35:07.460Z'
-    protocol_name: GRIT
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.258Z'
+    updated_at: '2020-09-11T08:49:27.258Z'
+    protocol_name: PITT BHI
     user_email: 
   - id: 31
-    name: Withdrew
-    disabled: false
-    protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.062Z'
-    updated_at: '2021-01-09T21:35:07.475Z'
-    protocol_name: GRIT
-    user_email: 
-  - id: 32
-    name: Enrolled
-    disabled: false
-    protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.070Z'
-    updated_at: '2021-01-09T21:35:07.485Z'
-    protocol_name: GRIT
-    user_email: 
-  - id: 33
-    name: Inquiry
-    disabled: false
-    protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.077Z'
-    updated_at: '2021-01-09T21:35:07.504Z'
-    protocol_name: GRIT
-    user_email: 
-  - id: 34
-    name: Bounced
-    disabled: false
-    protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.084Z'
-    updated_at: '2021-01-09T21:35:07.522Z'
-    protocol_name: GRIT
-    user_email: 
-  - id: 35
-    name: Opt Out
-    disabled: false
-    protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.092Z'
-    updated_at: '2021-01-09T21:35:07.542Z'
-    protocol_name: GRIT
-    user_email: 
-  - id: 36
-    name: Opt In
-    disabled: false
-    protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.099Z'
-    updated_at: '2021-01-09T21:35:07.561Z'
-    protocol_name: GRIT
-    user_email: 
-  - id: 37
-    name: Complete
-    disabled: false
-    protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.106Z'
-    updated_at: '2021-01-09T21:35:07.577Z'
-    protocol_name: GRIT
-    user_email: 
-  - id: 38
-    name: Sent
-    disabled: false
-    protocol_id: 3
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.114Z'
-    updated_at: '2021-01-09T21:35:07.595Z'
-    protocol_name: GRIT
-    user_email: 
-  - id: 39
-    name: Sent
-    disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.126Z'
-    updated_at: '2021-01-09T21:35:07.613Z'
-    protocol_name: Sleep Study Phase 2
-    user_email: 
-  - id: 40
-    name: Withdrew
-    disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.135Z'
-    updated_at: '2021-01-09T21:35:07.625Z'
-    protocol_name: Sleep Study Phase 2
-    user_email: 
-  - id: 41
-    name: Enrolled
-    disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.144Z'
-    updated_at: '2021-01-09T21:35:07.635Z'
-    protocol_name: Sleep Study Phase 2
-    user_email: 
-  - id: 42
-    name: Complete
-    disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.154Z'
-    updated_at: '2021-01-09T21:35:07.650Z'
-    protocol_name: Sleep Study Phase 2
-    user_email: 
-  - id: 43
-    name: Opt Out
-    disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.162Z'
-    updated_at: '2021-01-09T21:35:07.669Z'
-    protocol_name: Sleep Study Phase 2
-    user_email: 
-  - id: 44
-    name: Opt In
-    disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.171Z'
-    updated_at: '2021-01-09T21:35:07.688Z'
-    protocol_name: Sleep Study Phase 2
-    user_email: 
-  - id: 45
-    name: Bounced
-    disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.180Z'
-    updated_at: '2021-01-09T21:35:07.705Z'
-    protocol_name: Sleep Study Phase 2
-    user_email: 
-  - id: 46
-    name: Inquiry
-    disabled: false
-    protocol_id: 8
-    admin_id: 23
-    created_at: '2021-01-05T23:38:01.189Z'
-    updated_at: '2021-01-09T21:35:07.722Z'
-    protocol_name: Sleep Study Phase 2
-    user_email: 
-  - id: 47
-    name: Lost to Follow Up, Not Enrolled
-    disabled: false
-    protocol_id: 4
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.199Z'
-    updated_at: '2021-01-05T23:38:01.199Z'
-    protocol_name: In-Person Assessment
-    user_email: 
-  - id: 48
-    name: Hold
-    disabled: false
-    protocol_id: 4
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.205Z'
-    updated_at: '2021-01-05T23:38:01.205Z'
-    protocol_name: In-Person Assessment
-    user_email: 
-  - id: 49
-    name: Withdrew
-    disabled: false
-    protocol_id: 4
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.222Z'
-    updated_at: '2021-01-05T23:38:01.222Z'
-    protocol_name: In-Person Assessment
-    user_email: 
-  - id: 50
-    name: Screened
-    disabled: false
-    protocol_id: 4
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.232Z'
-    updated_at: '2021-01-05T23:38:01.232Z'
-    protocol_name: In-Person Assessment
-    user_email: 
-  - id: 51
-    name: Inquiry
-    disabled: false
-    protocol_id: 14
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.243Z'
-    updated_at: '2021-01-05T23:38:01.243Z'
-    protocol_name: Sleep Study Phase 1
-    user_email: 
-  - id: 52
-    name: Withdrew
-    disabled: false
-    protocol_id: 14
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.254Z'
-    updated_at: '2021-01-05T23:38:01.254Z'
-    protocol_name: Sleep Study Phase 1
-    user_email: 
-  - id: 53
-    name: Opt Out
-    disabled: false
-    protocol_id: 14
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.265Z'
-    updated_at: '2021-01-05T23:38:01.265Z'
-    protocol_name: Sleep Study Phase 1
-    user_email: 
-  - id: 54
-    name: Complete
-    disabled: false
-    protocol_id: 14
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.275Z'
-    updated_at: '2021-01-05T23:38:01.275Z'
-    protocol_name: Sleep Study Phase 1
-    user_email: 
-  - id: 55
-    name: Contact Info Transferred
-    disabled: false
-    protocol_id: 14
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.281Z'
-    updated_at: '2021-01-05T23:38:01.281Z'
-    protocol_name: Sleep Study Phase 1
-    user_email: 
-  - id: 56
-    name: Contact Info
-    disabled: false
-    protocol_id: 14
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.287Z'
-    updated_at: '2021-01-05T23:38:01.287Z'
-    protocol_name: Sleep Study Phase 1
-    user_email: 
-  - id: 57
-    name: Screened
-    disabled: false
-    protocol_id: 14
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.300Z'
-    updated_at: '2021-01-05T23:38:01.300Z'
-    protocol_name: Sleep Study Phase 1
-    user_email: 
-  - id: 58
-    name: Sent
-    disabled: false
-    protocol_id: 14
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.314Z'
-    updated_at: '2021-01-05T23:38:01.314Z'
-    protocol_name: Sleep Study Phase 1
-    user_email: 
-  - id: 59
-    name: Complete
-    disabled: false
-    protocol_id: 7
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.332Z'
-    updated_at: '2021-01-05T23:38:01.332Z'
-    protocol_name: Q2
-    user_email: 
-  - id: 60
-    name: Sent
-    disabled: false
-    protocol_id: 7
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.344Z'
-    updated_at: '2021-01-05T23:38:01.344Z'
-    protocol_name: Q2
-    user_email: 
-  - id: 61
-    name: Bounced
-    disabled: false
-    protocol_id: 7
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.357Z'
-    updated_at: '2021-01-05T23:38:01.357Z'
-    protocol_name: Q2
-    user_email: 
-  - id: 62
-    name: Opt Out
-    disabled: false
-    protocol_id: 7
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.369Z'
-    updated_at: '2021-01-05T23:38:01.369Z'
-    protocol_name: Q2
-    user_email: 
-  - id: 63
-    name: Inquiry
-    disabled: false
-    protocol_id: 7
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.382Z'
-    updated_at: '2021-01-05T23:38:01.382Z'
-    protocol_name: Q2
-    user_email: 
-  - id: 64
-    name: Opt In
-    disabled: false
-    protocol_id: 7
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.399Z'
-    updated_at: '2021-01-05T23:38:01.399Z'
-    protocol_name: Q2
-    user_email: 
-  - id: 65
-    name: Opt In
-    disabled: false
-    protocol_id: 5
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.411Z'
-    updated_at: '2021-01-05T23:38:01.411Z'
-    protocol_name: Personal Network
-    user_email: 
-  - id: 66
-    name: Opt Out
-    disabled: false
-    protocol_id: 5
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.424Z'
-    updated_at: '2021-01-05T23:38:01.424Z'
-    protocol_name: Personal Network
-    user_email: 
-  - id: 67
-    name: Bounced
-    disabled: false
-    protocol_id: 5
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.436Z'
-    updated_at: '2021-01-05T23:38:01.436Z'
-    protocol_name: Personal Network
-    user_email: 
-  - id: 68
-    name: Sent
-    disabled: false
-    protocol_id: 5
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.453Z'
-    updated_at: '2021-01-05T23:38:01.453Z'
-    protocol_name: Personal Network
-    user_email: 
-  - id: 69
-    name: Inquiry
-    disabled: false
-    protocol_id: 5
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.468Z'
-    updated_at: '2021-01-05T23:38:01.468Z'
-    protocol_name: Personal Network
-    user_email: 
-  - id: 70
-    name: Complete
-    disabled: false
-    protocol_id: 4
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.480Z'
-    updated_at: '2021-01-05T23:38:01.480Z'
-    protocol_name: In-Person Assessment
-    user_email: 
-  - id: 71
-    name: Opt Out
-    disabled: false
-    protocol_id: 4
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.494Z'
-    updated_at: '2021-01-05T23:38:01.494Z'
-    protocol_name: In-Person Assessment
-    user_email: 
-  - id: 72
-    name: Opt In
-    disabled: false
-    protocol_id: 4
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.506Z'
-    updated_at: '2021-01-05T23:38:01.506Z'
-    protocol_name: In-Person Assessment
-    user_email: 
-  - id: 73
     name: Contacted
     disabled: false
     protocol_id: 4
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.516Z'
-    updated_at: '2021-01-05T23:38:01.516Z'
-    protocol_name: In-Person Assessment
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.265Z'
+    updated_at: '2020-09-11T08:49:27.265Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 74
-    name: Completed
+  - id: 32
+    name: Eligible
     disabled: false
-    protocol_id: 5
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.522Z'
-    updated_at: '2021-01-05T23:38:01.522Z'
-    protocol_name: Personal Network
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.273Z'
+    updated_at: '2020-09-11T08:49:27.273Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 75
-    name: Lost To Follow Up
-    disabled: false
-    protocol_id: 2
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.534Z'
-    updated_at: '2021-01-05T23:38:01.534Z'
-    protocol_name: Brain Health Study
-    user_email: 
-  - id: 76
-    name: Consented
-    disabled: false
-    protocol_id: 2
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.541Z'
-    updated_at: '2021-01-05T23:38:01.541Z'
-    protocol_name: Brain Health Study
-    user_email: 
-  - id: 77
-    name: Opt In
-    disabled: false
-    protocol_id: 2
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.555Z'
-    updated_at: '2021-01-05T23:38:01.555Z'
-    protocol_name: Brain Health Study
-    user_email: 
-  - id: 78
-    name: Opt Out
-    disabled: false
-    protocol_id: 2
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.572Z'
-    updated_at: '2021-01-05T23:38:01.572Z'
-    protocol_name: Brain Health Study
-    user_email: 
-  - id: 79
-    name: Bounced
-    disabled: false
-    protocol_id: 2
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.586Z'
-    updated_at: '2021-01-05T23:38:01.586Z'
-    protocol_name: Brain Health Study
-    user_email: 
-  - id: 80
-    name: Sent
-    disabled: false
-    protocol_id: 2
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.600Z'
-    updated_at: '2021-01-05T23:38:01.600Z'
-    protocol_name: Brain Health Study
-    user_email: 
-  - id: 81
-    name: Inquiry
-    disabled: false
-    protocol_id: 2
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.618Z'
-    updated_at: '2021-01-05T23:38:01.618Z'
-    protocol_name: Brain Health Study
-    user_email: 
-  - id: 82
-    name: Complete
-    disabled: false
-    protocol_id: 2
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.633Z'
-    updated_at: '2021-01-05T23:38:01.633Z'
-    protocol_name: Brain Health Study
-    user_email: 
-  - id: 83
+  - id: 33
     name: Ineligible
     disabled: false
-    protocol_id: 6
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.646Z'
-    updated_at: '2021-01-05T23:38:01.646Z'
-    protocol_name: Q1
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.280Z'
+    updated_at: '2020-09-11T08:49:27.280Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 84
-    name: Opt Out
+  - id: 34
+    name: Lost to Follow Up, Not Enrolled
     disabled: false
-    protocol_id: 13
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.691Z'
-    updated_at: '2021-01-05T23:38:01.691Z'
-    protocol_name: Law and Ethics
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.288Z'
+    updated_at: '2020-09-11T08:49:27.288Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 85
-    name: Completed
+  - id: 35
+    name: Withdrew
     disabled: false
-    protocol_id: 13
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.699Z'
-    updated_at: '2021-01-05T23:38:01.699Z'
-    protocol_name: Law and Ethics
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.295Z'
+    updated_at: '2020-09-11T08:49:27.295Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 86
-    name: Participation Inquiry
+  - id: 36
+    name: Enrolled
     disabled: false
-    protocol_id: 13
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.705Z'
-    updated_at: '2021-01-05T23:38:01.705Z'
-    protocol_name: Law and Ethics
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.302Z'
+    updated_at: '2020-09-11T08:49:27.302Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 87
-    name: Opt In
-    disabled: false
-    protocol_id: 12
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.723Z'
-    updated_at: '2021-01-05T23:38:01.723Z'
-    protocol_name: TeamStudy
-    user_email: 
-  - id: 88
-    name: Opt In
-    disabled: false
-    protocol_id: 11
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.741Z'
-    updated_at: '2021-01-05T23:38:01.741Z'
-    protocol_name: General Awareness
-    user_email: 
-  - id: 89
-    name: Opt In
-    disabled: false
-    protocol_id: 10
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.762Z'
-    updated_at: '2021-01-05T23:38:01.762Z'
-    protocol_name: Study
-    user_email: 
-  - id: 90
-    name: Opt In
-    disabled: false
-    protocol_id: 6
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.782Z'
-    updated_at: '2021-01-05T23:38:01.782Z'
-    protocol_name: Q1
-    user_email: 
-  - id: 91
-    name: Q1 Received - Requires Follow up
-    disabled: false
-    protocol_id: 6
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.794Z'
-    updated_at: '2021-01-05T23:38:01.794Z'
-    protocol_name: Q1
-    user_email: 
-  - id: 92
-    name: Received Consent
-    disabled: false
-    protocol_id: 12
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.808Z'
-    updated_at: '2021-01-05T23:38:01.808Z'
-    protocol_name: TeamStudy
-    user_email: 
-  - id: 93
-    name: Bounced
-    disabled: false
-    protocol_id: 12
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.822Z'
-    updated_at: '2021-01-05T23:38:01.822Z'
-    protocol_name: TeamStudy
-    user_email: 
-  - id: 94
-    name: Sent
-    disabled: false
-    protocol_id: 12
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.837Z'
-    updated_at: '2021-01-05T23:38:01.837Z'
-    protocol_name: TeamStudy
-    user_email: 
-  - id: 95
-    name: 'Opt Out '
-    disabled: false
-    protocol_id: 12
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.844Z'
-    updated_at: '2021-01-05T23:38:01.844Z'
-    protocol_name: TeamStudy
-    user_email: 
-  - id: 96
+  - id: 37
     name: Inquiry
     disabled: false
-    protocol_id: 12
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.859Z'
-    updated_at: '2021-01-05T23:38:01.859Z'
-    protocol_name: TeamStudy
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.310Z'
+    updated_at: '2020-09-11T08:49:27.310Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 97
-    name: CIS-received
-    disabled: false
-    protocol_id: 10
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.865Z'
-    updated_at: '2021-01-05T23:38:01.865Z'
-    protocol_name: Study
-    user_email: 
-  - id: 98
-    name: Event
-    disabled: false
-    protocol_id: 11
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.872Z'
-    updated_at: '2021-01-05T23:38:01.872Z'
-    protocol_name: General Awareness
-    user_email: 
-  - id: 99
-    name: Inquiry
-    disabled: false
-    protocol_id: 11
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.892Z'
-    updated_at: '2021-01-05T23:38:01.892Z'
-    protocol_name: General Awareness
-    user_email: 
-  - id: 100
-    name: Opt Out
-    disabled: false
-    protocol_id: 10
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.915Z'
-    updated_at: '2021-01-05T23:38:01.915Z'
-    protocol_name: Study
-    user_email: 
-  - id: 101
-    name: Alerts
-    disabled: false
-    protocol_id: 10
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.923Z'
-    updated_at: '2021-01-05T23:38:01.923Z'
-    protocol_name: Study
-    user_email: 
-  - id: 102
+  - id: 38
     name: Bounced
     disabled: false
-    protocol_id: 6
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.957Z'
-    updated_at: '2021-01-05T23:38:01.957Z'
-    protocol_name: Q1
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.317Z'
+    updated_at: '2020-09-11T08:49:27.317Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 103
+  - id: 39
     name: Opt Out
     disabled: false
-    protocol_id: 6
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.975Z'
-    updated_at: '2021-01-05T23:38:01.975Z'
-    protocol_name: Q1
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.324Z'
+    updated_at: '2020-09-11T08:49:27.324Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 104
-    name: Sent
+  - id: 40
+    name: Opt In
     disabled: false
-    protocol_id: 11
-    admin_id: 1
-    created_at: '2021-01-05T23:38:01.992Z'
-    updated_at: '2021-01-05T23:38:01.992Z'
-    protocol_name: General Awareness
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.331Z'
+    updated_at: '2020-09-11T08:49:27.331Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 105
+  - id: 41
     name: Complete
     disabled: false
-    protocol_id: 6
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.010Z'
-    updated_at: '2021-01-05T23:38:02.010Z'
-    protocol_name: Q1
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.354Z'
+    updated_at: '2020-09-11T08:49:27.354Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 106
-    name: Unsubscribe
-    disabled: false
-    protocol_id: 11
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.016Z'
-    updated_at: '2021-01-05T23:38:02.016Z'
-    protocol_name: General Awareness
-    user_email: 
-  - id: 107
+  - id: 42
     name: Sent
     disabled: false
-    protocol_id: 6
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.035Z'
-    updated_at: '2021-01-05T23:38:02.035Z'
-    protocol_name: Q1
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.362Z'
+    updated_at: '2020-09-11T08:49:27.362Z'
+    protocol_name: PITT BHI
     user_email: 
-  - id: 108
-    name: Bounced
+  - id: 43
+    name: Transferred for Screening
     disabled: false
-    protocol_id: 11
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.052Z'
-    updated_at: '2021-01-05T23:38:02.052Z'
-    protocol_name: General Awareness
-    user_email: 
-  - id: 109
-    name: Inquiry
-    disabled: false
-    protocol_id: 6
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.070Z'
-    updated_at: '2021-01-05T23:38:02.070Z'
-    protocol_name: Q1
+    protocol_id: 4
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.368Z'
+    updated_at: '2020-09-11T08:49:27.368Z'
+    protocol_name: PITT BHI
     user_email: 
   associated_protocol_events:
-  - id: 1
-    name: created address
-    admin_id: 23
-    created_at: '2021-01-05T23:29:37.651Z'
-    updated_at: '2021-01-09T21:35:07.734Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 2
-    name: created player contact
-    admin_id: 23
-    created_at: '2021-01-05T23:29:38.046Z'
-    updated_at: '2021-01-09T21:35:07.747Z'
-    disabled: 
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 3
-    name: created player info
-    admin_id: 23
-    created_at: '2021-01-05T23:29:38.431Z'
-    updated_at: '2021-01-09T21:35:07.760Z'
-    disabled: 
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 4
-    name: created scantron
-    admin_id: 23
-    created_at: '2021-01-05T23:29:38.813Z'
-    updated_at: '2021-01-09T21:35:07.770Z'
-    disabled: 
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 5
-    name: created sage assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:29:39.195Z'
-    updated_at: '2021-01-09T21:35:07.780Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: ''
-    description: ''
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 6
-    name: updated address
-    admin_id: 23
-    created_at: '2021-01-05T23:29:39.578Z'
-    updated_at: '2021-01-09T21:35:07.791Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 7
-    name: updated player contact
-    admin_id: 23
-    created_at: '2021-01-05T23:29:39.962Z'
-    updated_at: '2021-01-09T21:35:07.802Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 8
-    name: updated player info
-    admin_id: 23
-    created_at: '2021-01-05T23:29:40.346Z'
-    updated_at: '2021-01-09T21:35:07.813Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 9
-    name: updated scantron
-    admin_id: 23
-    created_at: '2021-01-05T23:29:40.728Z'
-    updated_at: '2021-01-09T21:35:07.823Z'
-    disabled: 
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 10
-    name: updated sage assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:29:41.111Z'
-    updated_at: '2021-01-09T21:35:07.833Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: ''
-    description: ''
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 11
-    name: created nfs store  manage  container
-    admin_id: 23
-    created_at: '2021-01-05T23:29:41.501Z'
-    updated_at: '2021-01-09T21:35:07.844Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: ''
-    description: ''
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 12
-    name: updated nfs store  manage  container
-    admin_id: 23
-    created_at: '2021-01-05T23:29:41.904Z'
-    updated_at: '2021-01-09T21:35:07.853Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: ''
-    description: ''
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 13
-    name: created nfs store  manage  stored file
-    admin_id: 23
-    created_at: '2021-01-05T23:29:42.313Z'
-    updated_at: '2021-01-09T21:35:07.863Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: ''
-    description: ''
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 14
-    name: updated nfs store  manage  stored file
-    admin_id: 23
-    created_at: '2021-01-05T23:29:42.696Z'
-    updated_at: '2021-01-09T21:35:07.873Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: ''
-    description: ''
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 15
-    name: created nfs store  manage  archived file
-    admin_id: 23
-    created_at: '2021-01-05T23:29:43.079Z'
-    updated_at: '2021-01-09T21:35:07.883Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: ''
-    description: ''
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 16
-    name: updated nfs store  manage  archived file
-    admin_id: 23
-    created_at: '2021-01-05T23:29:43.471Z'
-    updated_at: '2021-01-09T21:35:07.893Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: ''
-    description: ''
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 17
-    name: created player info
-    admin_id: 23
-    created_at: '2021-01-05T23:29:44.234Z'
-    updated_at: '2021-01-09T21:35:07.905Z'
-    disabled: 
-    sub_process_id: 2
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: flag updates
-    user_email: 
-  - id: 18
-    name: updated player info
-    admin_id: 23
-    created_at: '2021-01-05T23:29:44.616Z'
-    updated_at: '2021-01-09T21:35:07.916Z'
-    disabled: false
-    sub_process_id: 2
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: flag updates
-    user_email: 
-  - id: 19
-    name: created activity log  player contact phone
-    admin_id: 23
-    created_at: '2021-01-05T23:30:09.403Z'
-    updated_at: '2021-01-09T21:35:07.927Z'
-    disabled: 
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 20
-    name: updated activity log  player contact phone
-    admin_id: 23
-    created_at: '2021-01-05T23:30:09.790Z'
-    updated_at: '2021-01-09T21:35:07.939Z'
-    disabled: 
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 22
-    name: All Communication
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.079Z'
-    updated_at: '2021-01-05T23:38:02.079Z'
-    disabled: false
-    sub_process_id: 100
-    milestone: ''
-    description: ''
-    protocol_name: Study
-    sub_process_name: Opt Out
-    user_email: 
-  - id: 23
-    name: Ambassador Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.088Z'
-    updated_at: '2021-01-05T23:38:02.088Z'
-    disabled: false
-    sub_process_id: 104
-    milestone: ''
-    description: Ambassador Email will be replacing the 71, 93, 95
-    protocol_name: General Awareness
-    sub_process_name: Sent
-    user_email: 
-  - id: 24
-    name: Andriod Phone
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.096Z'
-    updated_at: '2021-01-05T23:38:02.096Z'
-    disabled: false
-    sub_process_id: 96
-    milestone: ''
-    description: ''
-    protocol_name: TeamStudy
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 25
-    name: Announcement Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.104Z'
-    updated_at: '2021-01-05T23:38:02.104Z'
-    disabled: false
-    sub_process_id: 80
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Sent
-    user_email: 
-  - id: 26
-    name: Announcement Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.116Z'
-    updated_at: '2021-01-05T23:38:02.116Z'
-    disabled: false
-    sub_process_id: 68
-    milestone: ''
-    description: ''
-    protocol_name: Personal Network
-    sub_process_name: Sent
-    user_email: 
-  - id: 27
+  - id: 331
     name: Complete
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.124Z'
-    updated_at: '2021-01-05T23:38:02.124Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.376Z'
+    updated_at: '2020-09-11T08:49:27.376Z'
     disabled: false
-    sub_process_id: 99
-    milestone: ''
-    description: ''
-    protocol_name: General Awareness
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 28
-    name: Complete
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.133Z'
-    updated_at: '2021-01-05T23:38:02.133Z'
-    disabled: false
-    sub_process_id: 83
-    milestone: ''
-    description: For players that have completed Q1 but were ineligible - their data
-      has been erased per IRB protocol.
-    protocol_name: Q1
-    sub_process_name: Ineligible
-    user_email: 
-  - id: 29
-    name: Complete
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.146Z'
-    updated_at: '2021-01-05T23:38:02.146Z'
-    disabled: false
-    sub_process_id: 81
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 30
-    name: Complete
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.163Z'
-    updated_at: '2021-01-05T23:38:02.163Z'
-    disabled: false
-    sub_process_id: 51
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 31
-    name: Complete
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.181Z'
-    updated_at: '2021-01-09T21:35:08.611Z'
-    disabled: false
-    sub_process_id: 46
+    sub_process_id: 4
     milestone: ''
     description: ''
     protocol_name: Sleep Study Phase 2
     sub_process_name: Inquiry
     user_email: 
-  - id: 32
+  - id: 332
     name: Complete
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.207Z'
-    updated_at: '2021-01-09T21:35:08.635Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.387Z'
+    updated_at: '2020-09-11T08:49:27.387Z'
     disabled: false
-    sub_process_id: 33
+    sub_process_id: 17
     milestone: ''
     description: ''
     protocol_name: GRIT
     sub_process_name: Inquiry
     user_email: 
-  - id: 33
+  - id: 333
     name: Complete
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.231Z'
-    updated_at: '2021-01-09T21:35:08.662Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.399Z'
+    updated_at: '2020-09-11T08:49:27.399Z'
     disabled: false
-    sub_process_id: 10
+    sub_process_id: 37
     milestone: ''
     description: ''
     protocol_name: PITT BHI
     sub_process_name: Inquiry
     user_email: 
-  - id: 34
-    name: 'Complete '
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.239Z'
-    updated_at: '2021-01-05T23:38:02.239Z'
-    disabled: false
-    sub_process_id: 96
-    milestone: ''
-    description: ''
-    protocol_name: TeamStudy
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 35
-    name: Consented to Transfer to BWH
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.247Z'
-    updated_at: '2021-01-05T23:38:02.247Z'
-    disabled: false
-    sub_process_id: 56
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Contact Info
-    user_email: 
-  - id: 36
-    name: created activity log  femfl assignment femfl comm
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.255Z'
-    updated_at: '2021-01-05T23:38:02.255Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 37
-    name: created activity log  player contact phone
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.270Z'
-    updated_at: '2021-01-09T21:35:07.959Z'
-    disabled: false
-    sub_process_id: 2
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: flag updates
-    user_email: 
-  - id: 38
-    name: created address history
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.285Z'
-    updated_at: '2021-01-09T21:35:07.979Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 39
-    name: created bhs assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.293Z'
-    updated_at: '2021-01-09T21:35:07.989Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 40
-    name: created femfl address
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.301Z'
-    updated_at: '2021-01-05T23:38:02.301Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 41
-    name: created femfl assignment
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.309Z'
-    updated_at: '2021-01-05T23:38:02.309Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 42
-    name: created femfl contact
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.317Z'
-    updated_at: '2021-01-05T23:38:02.317Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 43
-    name: created femfl subject
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.325Z'
-    updated_at: '2021-01-05T23:38:02.325Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 44
-    name: created grit assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.334Z'
-    updated_at: '2021-01-09T21:35:08.035Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 45
-    name: created ipa assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.342Z'
-    updated_at: '2021-01-09T21:35:08.045Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 46
-    name: created ipa recruitment rank
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.350Z'
-    updated_at: '2021-01-09T21:35:08.056Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 47
-    name: created persnet assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.389Z'
-    updated_at: '2021-01-09T21:35:08.074Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 48
-    name: created pitt bhi assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.396Z'
-    updated_at: '2021-01-09T21:35:08.085Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 49
-    name: created player career datum
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.404Z'
-    updated_at: '2021-01-09T21:35:08.095Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 50
-    name: created player contact history
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.422Z'
-    updated_at: '2021-01-09T21:35:08.105Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 51
-    name: created player contact phone info
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.430Z'
-    updated_at: '2021-01-09T21:35:08.115Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 52
-    name: created player info history
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.463Z'
-    updated_at: '2021-01-09T21:35:08.158Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 53
-    name: created player transaction
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.472Z'
-    updated_at: '2021-01-09T21:35:08.168Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 54
-    name: created pro football master
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.480Z'
-    updated_at: '2021-01-09T21:35:08.179Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 55
-    name: created q1 rc link
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.487Z'
-    updated_at: '2021-01-09T21:35:08.189Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 56
-    name: created q2 rc link
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.496Z'
-    updated_at: '2021-01-09T21:35:08.200Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 57
-    name: created rc femfl cif
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.503Z'
-    updated_at: '2021-01-05T23:38:02.503Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 58
-    name: created scantron q2
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.532Z'
-    updated_at: '2021-01-09T21:35:08.219Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 59
-    name: created sleep assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.540Z'
-    updated_at: '2021-01-09T21:35:08.232Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 60
-    name: Did Not Consent
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.548Z'
-    updated_at: '2021-01-05T23:38:02.548Z'
-    disabled: false
-    sub_process_id: 56
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Contact Info
-    user_email: 
-  - id: 61
-    name: Eligible
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.555Z'
-    updated_at: '2021-01-05T23:38:02.555Z'
-    disabled: false
-    sub_process_id: 57
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Screened
-    user_email: 
-  - id: 62
-    name: Eligible
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.566Z'
-    updated_at: '2021-01-05T23:38:02.566Z'
-    disabled: false
-    sub_process_id: 50
-    milestone: ''
-    description: ''
-    protocol_name: In-Person Assessment
-    sub_process_name: Screened
-    user_email: 
-  - id: 63
+  - id: 334
     name: Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.573Z'
-    updated_at: '2021-01-05T23:38:02.573Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.406Z'
+    updated_at: '2020-09-11T08:49:27.406Z'
     disabled: false
-    sub_process_id: 108
-    milestone: notify-user
-    description: Email to this address has been returned. Update the email record
-      to mark as bad contact.
-    protocol_name: General Awareness
-    sub_process_name: Bounced
-    user_email: 
-  - id: 64
-    name: Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.583Z'
-    updated_at: '2021-01-05T23:38:02.583Z'
-    disabled: false
-    sub_process_id: 97
-    milestone: ''
-    description: ''
-    protocol_name: Study
-    sub_process_name: CIS-received
-    user_email: 
-  - id: 65
-    name: Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.595Z'
-    updated_at: '2021-01-05T23:38:02.595Z'
-    disabled: false
-    sub_process_id: 102
-    milestone: ''
-    description: ''
-    protocol_name: Q1
-    sub_process_name: Bounced
-    user_email: 
-  - id: 66
-    name: Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.609Z'
-    updated_at: '2021-01-05T23:38:02.609Z'
-    disabled: false
-    sub_process_id: 79
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Bounced
-    user_email: 
-  - id: 67
-    name: Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.628Z'
-    updated_at: '2021-01-05T23:38:02.628Z'
-    disabled: false
-    sub_process_id: 67
-    milestone: ''
-    description: ''
-    protocol_name: Personal Network
-    sub_process_name: Bounced
-    user_email: 
-  - id: 68
-    name: Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.648Z'
-    updated_at: '2021-01-05T23:38:02.648Z'
-    disabled: false
-    sub_process_id: 61
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Bounced
-    user_email: 
-  - id: 69
-    name: Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.664Z'
-    updated_at: '2021-01-05T23:38:02.664Z'
-    disabled: false
-    sub_process_id: 73
-    milestone: ''
-    description: ''
-    protocol_name: In-Person Assessment
-    sub_process_name: Contacted
-    user_email: 
-  - id: 70
-    name: Email
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.682Z'
-    updated_at: '2021-01-09T21:35:08.682Z'
-    disabled: false
-    sub_process_id: 26
+    sub_process_id: 24
     milestone: ''
     description: ''
     protocol_name: Sleep Study Phase 2
     sub_process_name: Contacted
     user_email: 
-  - id: 71
+  - id: 335
     name: Email - Bounced
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.691Z'
-    updated_at: '2021-01-05T23:38:02.691Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.413Z'
+    updated_at: '2020-09-11T08:49:27.413Z'
     disabled: false
-    sub_process_id: 73
-    milestone: ''
-    description: ''
-    protocol_name: In-Person Assessment
-    sub_process_name: Contacted
-    user_email: 
-  - id: 72
-    name: Email - Bounced
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.703Z'
-    updated_at: '2021-01-09T21:35:08.696Z'
-    disabled: false
-    sub_process_id: 26
+    sub_process_id: 24
     milestone: ''
     description: ''
     protocol_name: Sleep Study Phase 2
     sub_process_name: Contacted
     user_email: 
-  - id: 73
+  - id: 336
     name: Email from Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.710Z'
-    updated_at: '2021-01-05T23:38:02.710Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.420Z'
+    updated_at: '2020-09-11T08:49:27.420Z'
     disabled: false
-    sub_process_id: 109
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 74
-    name: Email from Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.721Z'
-    updated_at: '2021-01-05T23:38:02.721Z'
-    disabled: false
-    sub_process_id: 81
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 75
-    name: Email from Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.735Z'
-    updated_at: '2021-01-05T23:38:02.735Z'
-    disabled: false
-    sub_process_id: 69
-    milestone: ''
-    description: ''
-    protocol_name: Personal Network
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 76
-    name: Email from Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.752Z'
-    updated_at: '2021-01-05T23:38:02.752Z'
-    disabled: false
-    sub_process_id: 63
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 77
-    name: Email from Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.771Z'
-    updated_at: '2021-01-05T23:38:02.771Z'
-    disabled: false
-    sub_process_id: 51
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 78
-    name: Email from Player
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.793Z'
-    updated_at: '2021-01-09T21:35:08.726Z'
-    disabled: false
-    sub_process_id: 46
+    sub_process_id: 4
     milestone: ''
     description: ''
     protocol_name: Sleep Study Phase 2
     sub_process_name: Inquiry
     user_email: 
-  - id: 79
+  - id: 337
     name: Email from Player
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.818Z'
-    updated_at: '2021-01-09T21:35:08.754Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.430Z'
+    updated_at: '2020-09-11T08:49:27.430Z'
     disabled: false
-    sub_process_id: 33
+    sub_process_id: 17
     milestone: ''
     description: ''
     protocol_name: GRIT
     sub_process_name: Inquiry
     user_email: 
-  - id: 80
+  - id: 338
     name: Email from Player
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.870Z'
-    updated_at: '2021-01-09T21:35:08.784Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.441Z'
+    updated_at: '2020-09-11T08:49:27.441Z'
     disabled: false
-    sub_process_id: 10
+    sub_process_id: 37
     milestone: ''
     description: ''
     protocol_name: PITT BHI
     sub_process_name: Inquiry
     user_email: 
-  - id: 81
-    name: Email From Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.878Z'
-    updated_at: '2021-01-05T23:38:02.878Z'
-    disabled: false
-    sub_process_id: 96
-    milestone: ''
-    description: ''
-    protocol_name: TeamStudy
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 82
+  - id: 339
     name: Email from Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.887Z'
-    updated_at: '2021-01-05T23:38:02.887Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.448Z'
+    updated_at: '2020-09-11T08:49:27.448Z'
     disabled: false
-    sub_process_id: 109
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 83
-    name: Email from Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.898Z'
-    updated_at: '2021-01-05T23:38:02.898Z'
-    disabled: false
-    sub_process_id: 81
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 84
-    name: Email from Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.912Z'
-    updated_at: '2021-01-05T23:38:02.912Z'
-    disabled: false
-    sub_process_id: 69
-    milestone: ''
-    description: ''
-    protocol_name: Personal Network
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 85
-    name: Email from Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.930Z'
-    updated_at: '2021-01-05T23:38:02.930Z'
-    disabled: false
-    sub_process_id: 63
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 86
-    name: Email from Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:02.951Z'
-    updated_at: '2021-01-05T23:38:02.951Z'
-    disabled: false
-    sub_process_id: 51
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 87
-    name: Email from Staff
-    admin_id: 23
-    created_at: '2021-01-05T23:38:02.975Z'
-    updated_at: '2021-01-09T21:35:08.815Z'
-    disabled: false
-    sub_process_id: 46
+    sub_process_id: 4
     milestone: ''
     description: ''
     protocol_name: Sleep Study Phase 2
     sub_process_name: Inquiry
     user_email: 
-  - id: 88
+  - id: 340
     name: Email from Staff
-    admin_id: 23
-    created_at: '2021-01-05T23:38:03.000Z'
-    updated_at: '2021-01-09T21:35:08.843Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.457Z'
+    updated_at: '2020-09-11T08:49:27.457Z'
     disabled: false
-    sub_process_id: 33
+    sub_process_id: 17
     milestone: ''
     description: ''
     protocol_name: GRIT
     sub_process_name: Inquiry
     user_email: 
-  - id: 89
+  - id: 341
     name: Email from Staff
-    admin_id: 23
-    created_at: '2021-01-05T23:38:03.030Z'
-    updated_at: '2021-01-09T21:35:08.872Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.469Z'
+    updated_at: '2020-09-11T08:49:27.469Z'
     disabled: false
-    sub_process_id: 10
+    sub_process_id: 37
     milestone: ''
     description: ''
     protocol_name: PITT BHI
     sub_process_name: Inquiry
     user_email: 
-  - id: 90
-    name: Email From Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.041Z'
-    updated_at: '2021-01-05T23:38:03.041Z'
-    disabled: false
-    sub_process_id: 96
-    milestone: ''
-    description: ''
-    protocol_name: TeamStudy
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 91
-    name: Email Reminder - with link
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.049Z'
-    updated_at: '2021-01-05T23:38:03.049Z'
-    disabled: false
-    sub_process_id: 60
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Sent
-    user_email: 
-  - id: 92
-    name: Email - Study Invites
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.057Z'
-    updated_at: '2021-01-05T23:38:03.057Z'
-    disabled: false
-    sub_process_id: 100
-    milestone: ''
-    description: ''
-    protocol_name: Study
-    sub_process_name: Opt Out
-    user_email: 
-  - id: 93
-    name: Email - Study Updates
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.066Z'
-    updated_at: '2021-01-05T23:38:03.066Z'
-    disabled: false
-    sub_process_id: 100
-    milestone: ''
-    description: ''
-    protocol_name: Study
-    sub_process_name: Opt Out
-    user_email: 
-  - id: 94
-    name: Event
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.074Z'
-    updated_at: '2021-01-05T23:38:03.074Z'
-    disabled: false
-    sub_process_id: 97
-    milestone: ''
-    description: ''
-    protocol_name: Study
-    sub_process_name: CIS-received
-    user_email: 
-  - id: 95
-    name: Feedback Form (Identifiable)
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.081Z'
-    updated_at: '2021-01-05T23:38:03.081Z'
-    disabled: false
-    sub_process_id: 69
-    milestone: ''
-    description: ''
-    protocol_name: Personal Network
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 96
-    name: Ineligible
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.090Z'
-    updated_at: '2021-01-05T23:38:03.090Z'
-    disabled: false
-    sub_process_id: 57
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Screened
-    user_email: 
-  - id: 97
-    name: Ineligible
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.101Z'
-    updated_at: '2021-01-05T23:38:03.101Z'
-    disabled: false
-    sub_process_id: 50
-    milestone: ''
-    description: ''
-    protocol_name: In-Person Assessment
-    sub_process_name: Screened
-    user_email: 
-  - id: 98
-    name: Info Transfer Confirmation Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.110Z'
-    updated_at: '2021-01-05T23:38:03.110Z'
-    disabled: false
-    sub_process_id: 58
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Sent
-    user_email: 
-  - id: 99
-    name: Inquiry complete
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.118Z'
-    updated_at: '2021-01-05T23:38:03.118Z'
-    disabled: false
-    sub_process_id: 63
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 100
-    name: Inquiry Complete
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.125Z'
-    updated_at: '2021-01-05T23:38:03.125Z'
-    disabled: false
-    sub_process_id: 109
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 101
-    name: Las Vegas
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.134Z'
-    updated_at: '2021-01-05T23:38:03.134Z'
-    disabled: false
-    sub_process_id: 98
-    milestone: ''
-    description: ''
-    protocol_name: General Awareness
-    sub_process_name: Event
-    user_email: 
-  - id: 102
-    name: Launch email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.145Z'
-    updated_at: '2021-01-05T23:38:03.145Z'
-    disabled: false
-    sub_process_id: 60
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Sent
-    user_email: 
-  - id: 103
-    name: Launch Email(with link)
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.153Z'
-    updated_at: '2021-01-05T23:38:03.153Z'
-    disabled: false
-    sub_process_id: 80
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Sent
-    user_email: 
-  - id: 104
-    name: Level 1
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.160Z'
-    updated_at: '2021-01-05T23:38:03.160Z'
-    disabled: false
-    sub_process_id: 101
-    milestone: always-notify-user
-    description: " It is strongly recommended to avoid contact with this person. If
-      receiving a call, attempt to redirect to a supervisor immediately."
-    protocol_name: Study
-    sub_process_name: Alerts
-    user_email: 
-  - id: 105
-    name: Level 2
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.168Z'
-    updated_at: '2021-01-05T23:38:03.168Z'
-    disabled: false
-    sub_process_id: 101
-    milestone: always-notify-user
-    description: " It is strongly recommended to avoid contact with this person. If
-      receiving a call, attempt to redirect to a supervisor immediately."
-    protocol_name: Study
-    sub_process_name: Alerts
-    user_email: 
-  - id: 106
-    name: Level 3
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.178Z'
-    updated_at: '2021-01-05T23:38:03.178Z'
-    disabled: false
-    sub_process_id: 101
-    milestone: always-notify-user
-    description: " It is strongly recommended to avoid contact with this person. If
-      receiving a call, attempt to redirect to a supervisor immediately."
-    protocol_name: Study
-    sub_process_name: Alerts
-    user_email: 
-  - id: 107
-    name: Mail
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.185Z'
-    updated_at: '2021-01-05T23:38:03.185Z'
-    disabled: false
-    sub_process_id: 108
-    milestone: notify-user
-    description: Mail to this address has been returned. Update the address record
-      to mark as bad contact.
-    protocol_name: General Awareness
-    sub_process_name: Bounced
-    user_email: 
-  - id: 108
-    name: Mail
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.195Z'
-    updated_at: '2021-01-05T23:38:03.195Z'
-    disabled: false
-    sub_process_id: 104
-    milestone: ''
-    description: ''
-    protocol_name: General Awareness
-    sub_process_name: Sent
-    user_email: 
-  - id: 109
-    name: Pamphlet
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.203Z'
-    updated_at: '2021-01-05T23:38:03.203Z'
-    disabled: false
-    sub_process_id: 81
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 110
-    name: Pamphlet
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.213Z'
-    updated_at: '2021-01-05T23:38:03.213Z'
-    disabled: false
-    sub_process_id: 80
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Sent
-    user_email: 
-  - id: 111
-    name: Pamphlet
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.229Z'
-    updated_at: '2021-01-05T23:38:03.229Z'
-    disabled: false
-    sub_process_id: 51
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 112
-    name: Paper
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.237Z'
-    updated_at: '2021-01-05T23:38:03.237Z'
-    disabled: false
-    sub_process_id: 97
-    milestone: ''
-    description: ''
-    protocol_name: Study
-    sub_process_name: CIS-received
-    user_email: 
-  - id: 113
-    name: Personalized Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.246Z'
-    updated_at: '2021-01-05T23:38:03.246Z'
-    disabled: false
-    sub_process_id: 80
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Sent
-    user_email: 
-  - id: 114
-    name: Phone
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.254Z'
-    updated_at: '2021-01-05T23:38:03.254Z'
-    disabled: false
-    sub_process_id: 97
-    milestone: ''
-    description: ''
-    protocol_name: Study
-    sub_process_name: CIS-received
-    user_email: 
-  - id: 115
+  - id: 342
     name: Phone from Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.262Z'
-    updated_at: '2021-01-05T23:38:03.262Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.476Z'
+    updated_at: '2020-09-11T08:49:27.476Z'
     disabled: false
-    sub_process_id: 109
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 116
-    name: Phone from Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.273Z'
-    updated_at: '2021-01-05T23:38:03.273Z'
-    disabled: false
-    sub_process_id: 81
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 117
-    name: Phone from Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.289Z'
-    updated_at: '2021-01-05T23:38:03.289Z'
-    disabled: false
-    sub_process_id: 69
-    milestone: ''
-    description: ''
-    protocol_name: Personal Network
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 118
-    name: Phone from Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.305Z'
-    updated_at: '2021-01-05T23:38:03.305Z'
-    disabled: false
-    sub_process_id: 63
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 119
-    name: Phone from Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.324Z'
-    updated_at: '2021-01-05T23:38:03.324Z'
-    disabled: false
-    sub_process_id: 51
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 120
-    name: Phone from Player
-    admin_id: 23
-    created_at: '2021-01-05T23:38:03.348Z'
-    updated_at: '2021-01-09T21:35:08.900Z'
-    disabled: false
-    sub_process_id: 46
+    sub_process_id: 4
     milestone: ''
     description: ''
     protocol_name: Sleep Study Phase 2
     sub_process_name: Inquiry
     user_email: 
-  - id: 121
+  - id: 343
     name: Phone from Player
-    admin_id: 23
-    created_at: '2021-01-05T23:38:03.375Z'
-    updated_at: '2021-01-09T21:35:08.931Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.485Z'
+    updated_at: '2020-09-11T08:49:27.485Z'
     disabled: false
-    sub_process_id: 33
+    sub_process_id: 17
     milestone: ''
     description: ''
     protocol_name: GRIT
     sub_process_name: Inquiry
     user_email: 
-  - id: 122
+  - id: 344
     name: Phone from Player
-    admin_id: 23
-    created_at: '2021-01-05T23:38:03.401Z'
-    updated_at: '2021-01-09T21:35:08.959Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.496Z'
+    updated_at: '2020-09-11T08:49:27.496Z'
     disabled: false
-    sub_process_id: 10
+    sub_process_id: 37
     milestone: ''
     description: ''
     protocol_name: PITT BHI
     sub_process_name: Inquiry
     user_email: 
-  - id: 123
-    name: Phone From Player
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.410Z'
-    updated_at: '2021-01-05T23:38:03.410Z'
-    disabled: false
-    sub_process_id: 96
-    milestone: ''
-    description: ''
-    protocol_name: TeamStudy
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 124
+  - id: 345
     name: Phone from Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.418Z'
-    updated_at: '2021-01-05T23:38:03.418Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.503Z'
+    updated_at: '2020-09-11T08:49:27.503Z'
     disabled: false
-    sub_process_id: 109
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 125
-    name: Phone from Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.431Z'
-    updated_at: '2021-01-05T23:38:03.431Z'
-    disabled: false
-    sub_process_id: 81
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 126
-    name: Phone from Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.446Z'
-    updated_at: '2021-01-05T23:38:03.446Z'
-    disabled: false
-    sub_process_id: 69
-    milestone: ''
-    description: ''
-    protocol_name: Personal Network
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 127
-    name: Phone from Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.463Z'
-    updated_at: '2021-01-05T23:38:03.463Z'
-    disabled: false
-    sub_process_id: 63
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 128
-    name: Phone from Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.482Z'
-    updated_at: '2021-01-05T23:38:03.482Z'
-    disabled: false
-    sub_process_id: 51
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 129
-    name: Phone from Staff
-    admin_id: 23
-    created_at: '2021-01-05T23:38:03.504Z'
-    updated_at: '2021-01-09T21:35:08.988Z'
-    disabled: false
-    sub_process_id: 46
+    sub_process_id: 4
     milestone: ''
     description: ''
     protocol_name: Sleep Study Phase 2
     sub_process_name: Inquiry
     user_email: 
-  - id: 130
+  - id: 346
     name: Phone from Staff
-    admin_id: 23
-    created_at: '2021-01-05T23:38:03.528Z'
-    updated_at: '2021-01-09T21:35:09.019Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.512Z'
+    updated_at: '2020-09-11T08:49:27.512Z'
     disabled: false
-    sub_process_id: 33
+    sub_process_id: 17
     milestone: ''
     description: ''
     protocol_name: GRIT
     sub_process_name: Inquiry
     user_email: 
-  - id: 131
+  - id: 347
     name: Phone from Staff
-    admin_id: 23
-    created_at: '2021-01-05T23:38:03.556Z'
-    updated_at: '2021-01-09T21:35:09.078Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.524Z'
+    updated_at: '2020-09-11T08:49:27.524Z'
     disabled: false
-    sub_process_id: 10
+    sub_process_id: 37
     milestone: ''
     description: ''
     protocol_name: PITT BHI
     sub_process_name: Inquiry
     user_email: 
-  - id: 132
-    name: Phone From Staff
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.574Z'
-    updated_at: '2021-01-05T23:38:03.574Z'
-    disabled: false
-    sub_process_id: 96
-    milestone: ''
-    description: ''
-    protocol_name: TeamStudy
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 133
-    name: Phone - Study Invites
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.582Z'
-    updated_at: '2021-01-05T23:38:03.582Z'
-    disabled: false
-    sub_process_id: 100
-    milestone: ''
-    description: ''
-    protocol_name: Study
-    sub_process_name: Opt Out
-    user_email: 
-  - id: 134
-    name: Prenotification
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.590Z'
-    updated_at: '2021-01-05T23:38:03.590Z'
-    disabled: false
-    sub_process_id: 102
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Bounced
-    user_email: 
-  - id: 135
-    name: Prenotification
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.599Z'
-    updated_at: '2021-01-05T23:38:03.599Z'
-    disabled: false
-    sub_process_id: 107
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Sent
-    user_email: 
-  - id: 136
-    name: Q1 Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.607Z'
-    updated_at: '2021-01-05T23:38:03.607Z'
-    disabled: false
-    sub_process_id: 104
-    milestone: ''
-    description: ''
-    protocol_name: General Awareness
-    sub_process_name: Sent
-    user_email: 
-  - id: 137
-    name: Q1 Mail
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.615Z'
-    updated_at: '2021-01-05T23:38:03.615Z'
-    disabled: false
-    sub_process_id: 104
-    milestone: ''
-    description: ''
-    protocol_name: General Awareness
-    sub_process_name: Sent
-    user_email: 
-  - id: 138
-    name: Q2 Completer Reminder
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.623Z'
-    updated_at: '2021-01-05T23:38:03.623Z'
-    disabled: false
-    sub_process_id: 68
-    milestone: ''
-    description: ''
-    protocol_name: Personal Network
-    sub_process_name: Sent
-    user_email: 
-  - id: 139
-    name: Q2 Completer Reminder
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.638Z'
-    updated_at: '2021-01-05T23:38:03.638Z'
-    disabled: false
-    sub_process_id: 80
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Sent
-    user_email: 
-  - id: 140
+  - id: 348
     name: Recruitment Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.650Z'
-    updated_at: '2021-01-05T23:38:03.650Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.531Z'
+    updated_at: '2020-09-11T08:49:27.531Z'
     disabled: false
-    sub_process_id: 58
-    milestone: ''
-    description: ''
-    protocol_name: Sleep Study Phase 1
-    sub_process_name: Sent
-    user_email: 
-  - id: 141
-    name: Recruitment Email
-    admin_id: 23
-    created_at: '2021-01-05T23:38:03.661Z'
-    updated_at: '2021-01-09T21:35:09.096Z'
-    disabled: false
-    sub_process_id: 39
+    sub_process_id: 11
     milestone: ''
     description: ''
     protocol_name: Sleep Study Phase 2
     sub_process_name: Sent
     user_email: 
-  - id: 142
+  - id: 349
     name: Recruitment Email
-    admin_id: 23
-    created_at: '2021-01-05T23:38:03.674Z'
-    updated_at: '2021-01-09T21:35:09.116Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.541Z'
+    updated_at: '2020-09-11T08:49:27.541Z'
     disabled: false
-    sub_process_id: 38
+    sub_process_id: 12
     milestone: ''
     description: ''
     protocol_name: GRIT
     sub_process_name: Sent
     user_email: 
-  - id: 143
+  - id: 350
     name: Recruitment Email
-    admin_id: 23
-    created_at: '2021-01-05T23:38:03.690Z'
-    updated_at: '2021-01-09T21:35:09.134Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.553Z'
+    updated_at: '2020-09-11T08:49:27.553Z'
     disabled: false
-    sub_process_id: 5
+    sub_process_id: 42
     milestone: ''
     description: ''
     protocol_name: PITT BHI
     sub_process_name: Sent
     user_email: 
-  - id: 144
-    name: REDCap
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.702Z'
-    updated_at: '2021-01-05T23:38:03.702Z'
-    disabled: false
-    sub_process_id: 102
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Bounced
-    user_email: 
-  - id: 145
-    name: REDCap
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.712Z'
-    updated_at: '2021-01-05T23:38:03.712Z'
-    disabled: false
-    sub_process_id: 107
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Sent
-    user_email: 
-  - id: 146
-    name: REDCap
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.722Z'
-    updated_at: '2021-01-05T23:38:03.722Z'
-    disabled: false
-    sub_process_id: 105
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Complete
-    user_email: 
-  - id: 147
-    name: REDCap
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.734Z'
-    updated_at: '2021-01-05T23:38:03.734Z'
-    disabled: false
-    sub_process_id: 97
-    milestone: ''
-    description: ''
-    protocol_name: Study
-    sub_process_name: CIS-received
-    user_email: 
-  - id: 148
-    name: REDCap
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.748Z'
-    updated_at: '2021-01-05T23:38:03.748Z'
-    disabled: false
-    sub_process_id: 74
-    milestone: ''
-    description: ''
-    protocol_name: Personal Network
-    sub_process_name: Completed
-    user_email: 
-  - id: 149
-    name: REDCap
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.764Z'
-    updated_at: '2021-01-05T23:38:03.764Z'
-    disabled: false
-    sub_process_id: 61
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Bounced
-    user_email: 
-  - id: 150
-    name: REDCap
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.781Z'
-    updated_at: '2021-01-05T23:38:03.781Z'
-    disabled: false
-    sub_process_id: 60
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Sent
-    user_email: 
-  - id: 151
-    name: REDCap
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.800Z'
-    updated_at: '2021-01-05T23:38:03.800Z'
-    disabled: false
-    sub_process_id: 59
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Complete
-    user_email: 
-  - id: 152
-    name: Reminder - Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.808Z'
-    updated_at: '2021-01-05T23:38:03.808Z'
-    disabled: false
-    sub_process_id: 94
-    milestone: ''
-    description: Reminder has been sent out via email.
-    protocol_name: TeamStudy
-    sub_process_name: Sent
-    user_email: 
-  - id: 153
-    name: Reminder - Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.818Z'
-    updated_at: '2021-01-05T23:38:03.818Z'
-    disabled: false
-    sub_process_id: 107
-    milestone: ''
-    description: 'Reminder sent out using email '
-    protocol_name: Q1
-    sub_process_name: Sent
-    user_email: 
-  - id: 154
-    name: Reminder - Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.831Z'
-    updated_at: '2021-01-05T23:38:03.831Z'
-    disabled: false
-    sub_process_id: 60
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Sent
-    user_email: 
-  - id: 155
-    name: Reminder- Email
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.840Z'
-    updated_at: '2021-01-05T23:38:03.840Z'
-    disabled: false
-    sub_process_id: 93
-    milestone: ''
-    description: Use for the TeamStudy Bounce email for future and we might disable
-      the Reminder and TeamStudy ID
-    protocol_name: TeamStudy
-    sub_process_name: Bounced
-    user_email: 
-  - id: 156
-    name: Reminder Email(with link)
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.847Z'
-    updated_at: '2021-01-05T23:38:03.847Z'
-    disabled: false
-    sub_process_id: 80
-    milestone: ''
-    description: ''
-    protocol_name: Brain Health Study
-    sub_process_name: Sent
-    user_email: 
-  - id: 157
-    name: Reminder - Mail
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.856Z'
-    updated_at: '2021-01-05T23:38:03.856Z'
-    disabled: false
-    sub_process_id: 102
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Bounced
-    user_email: 
-  - id: 158
-    name: Reminder - Mail
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.866Z'
-    updated_at: '2021-01-05T23:38:03.866Z'
-    disabled: false
-    sub_process_id: 107
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Sent
-    user_email: 
-  - id: 159
-    name: Resolved
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.874Z'
-    updated_at: '2021-01-05T23:38:03.874Z'
-    disabled: false
-    sub_process_id: 101
-    milestone: 
-    description: 
-    protocol_name: Study
-    sub_process_name: Alerts
-    user_email: 
-  - id: 160
-    name: Scantron
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.884Z'
-    updated_at: '2021-01-05T23:38:03.884Z'
-    disabled: false
-    sub_process_id: 102
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Bounced
-    user_email: 
-  - id: 161
-    name: Scantron
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.893Z'
-    updated_at: '2021-01-05T23:38:03.893Z'
-    disabled: false
-    sub_process_id: 107
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Sent
-    user_email: 
-  - id: 162
-    name: Scantron
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.903Z'
-    updated_at: '2021-01-05T23:38:03.903Z'
-    disabled: false
-    sub_process_id: 105
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Complete
-    user_email: 
-  - id: 163
-    name: Scantron
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.915Z'
-    updated_at: '2021-01-05T23:38:03.915Z'
-    disabled: false
-    sub_process_id: 91
-    milestone: ''
-    description: ''
-    protocol_name: Q1
-    sub_process_name: Q1 Received - Requires Follow up
-    user_email: 
-  - id: 164
-    name: Scantron
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.930Z'
-    updated_at: '2021-01-05T23:38:03.930Z'
-    disabled: false
-    sub_process_id: 60
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Sent
-    user_email: 
-  - id: 165
-    name: Scantron
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.945Z'
-    updated_at: '2021-01-05T23:38:03.945Z'
-    disabled: false
-    sub_process_id: 61
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Bounced
-    user_email: 
-  - id: 166
-    name: Scantron
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.962Z'
-    updated_at: '2021-01-05T23:38:03.962Z'
-    disabled: false
-    sub_process_id: 59
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Complete
-    user_email: 
-  - id: 167
-    name: Study Updates
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.970Z'
-    updated_at: '2021-01-05T23:38:03.970Z'
-    disabled: false
-    sub_process_id: 104
-    milestone: ''
-    description: ''
-    protocol_name: General Awareness
-    sub_process_name: Sent
-    user_email: 
-  - id: 168
-    name: TeamStudy ID
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.978Z'
-    updated_at: '2021-01-05T23:38:03.978Z'
-    disabled: false
-    sub_process_id: 94
-    milestone: ''
-    description: ''
-    protocol_name: TeamStudy
-    sub_process_name: Sent
-    user_email: 
-  - id: 169
-    name: TeamStudy ID
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.987Z'
-    updated_at: '2021-01-05T23:38:03.987Z'
-    disabled: false
-    sub_process_id: 93
-    milestone: ''
-    description: ''
-    protocol_name: TeamStudy
-    sub_process_name: Bounced
-    user_email: 
-  - id: 170
+  - id: 351
     name: Text
-    admin_id: 1
-    created_at: '2021-01-05T23:38:03.995Z'
-    updated_at: '2021-01-05T23:38:03.995Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.560Z'
+    updated_at: '2020-09-11T08:49:27.560Z'
     disabled: false
-    sub_process_id: 73
-    milestone: ''
-    description: ''
-    protocol_name: In-Person Assessment
-    sub_process_name: Contacted
-    user_email: 
-  - id: 171
-    name: Text
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.007Z'
-    updated_at: '2021-01-09T21:35:09.147Z'
-    disabled: false
-    sub_process_id: 26
+    sub_process_id: 24
     milestone: ''
     description: ''
     protocol_name: Sleep Study Phase 2
     sub_process_name: Contacted
     user_email: 
-  - id: 172
+  - id: 352
     name: Text - Bounced
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.015Z'
-    updated_at: '2021-01-05T23:38:04.015Z'
+    admin_id: 4
+    created_at: '2020-09-11T08:49:27.567Z'
+    updated_at: '2020-09-11T08:49:27.567Z'
     disabled: false
-    sub_process_id: 73
-    milestone: ''
-    description: ''
-    protocol_name: In-Person Assessment
-    sub_process_name: Contacted
-    user_email: 
-  - id: 173
-    name: Text - Bounced
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.048Z'
-    updated_at: '2021-01-09T21:35:09.162Z'
-    disabled: false
-    sub_process_id: 26
+    sub_process_id: 24
     milestone: ''
     description: ''
     protocol_name: Sleep Study Phase 2
     sub_process_name: Contacted
-    user_email: 
-  - id: 174
-    name: Text - Study Invites
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.056Z'
-    updated_at: '2021-01-05T23:38:04.056Z'
-    disabled: false
-    sub_process_id: 100
-    milestone: ''
-    description: ''
-    protocol_name: Study
-    sub_process_name: Opt Out
-    user_email: 
-  - id: 175
-    name: Text - Study Updates
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.064Z'
-    updated_at: '2021-01-05T23:38:04.064Z'
-    disabled: false
-    sub_process_id: 100
-    milestone: ''
-    description: ''
-    protocol_name: Study
-    sub_process_name: Opt Out
-    user_email: 
-  - id: 176
-    name: Thank You
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.072Z'
-    updated_at: '2021-01-05T23:38:04.072Z'
-    disabled: false
-    sub_process_id: 107
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Sent
-    user_email: 
-  - id: 177
-    name: Thank You
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.082Z'
-    updated_at: '2021-01-05T23:38:04.082Z'
-    disabled: false
-    sub_process_id: 102
-    milestone: 
-    description: 
-    protocol_name: Q1
-    sub_process_name: Bounced
-    user_email: 
-  - id: 178
-    name: Thank You
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.095Z'
-    updated_at: '2021-01-05T23:38:04.095Z'
-    disabled: false
-    sub_process_id: 61
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Bounced
-    user_email: 
-  - id: 179
-    name: Thank You
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.109Z'
-    updated_at: '2021-01-05T23:38:04.109Z'
-    disabled: false
-    sub_process_id: 60
-    milestone: ''
-    description: ''
-    protocol_name: Q2
-    sub_process_name: Sent
-    user_email: 
-  - id: 180
-    name: T-shirt
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.123Z'
-    updated_at: '2021-01-05T23:38:04.123Z'
-    disabled: false
-    sub_process_id: 99
-    milestone: ''
-    description: ''
-    protocol_name: General Awareness
-    sub_process_name: Inquiry
-    user_email: 
-  - id: 181
-    name: T-Shirt
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.133Z'
-    updated_at: '2021-01-05T23:38:04.133Z'
-    disabled: false
-    sub_process_id: 104
-    milestone: 
-    description: 
-    protocol_name: General Awareness
-    sub_process_name: Sent
-    user_email: 
-  - id: 182
-    name: T-Shirts
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.141Z'
-    updated_at: '2021-01-05T23:38:04.141Z'
-    disabled: false
-    sub_process_id: 108
-    milestone: notify-user
-    description: Mail to this address has been returned. Update the address record
-      to mark as bad contact.
-    protocol_name: General Awareness
-    sub_process_name: Bounced
-    user_email: 
-  - id: 183
-    name: updated activity log  femfl assignment femfl comm
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.149Z'
-    updated_at: '2021-01-05T23:38:04.149Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 184
-    name: updated activity log  player contact phone
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.165Z'
-    updated_at: '2021-01-09T21:35:08.292Z'
-    disabled: false
-    sub_process_id: 2
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: flag updates
-    user_email: 
-  - id: 185
-    name: updated address history
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.184Z'
-    updated_at: '2021-01-09T21:35:08.310Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 186
-    name: updated bhs assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.193Z'
-    updated_at: '2021-01-09T21:35:08.320Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 187
-    name: updated femfl address
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.201Z'
-    updated_at: '2021-01-05T23:38:04.201Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 188
-    name: updated femfl assignment
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.209Z'
-    updated_at: '2021-01-05T23:38:04.209Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 189
-    name: updated femfl contact
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.217Z'
-    updated_at: '2021-01-05T23:38:04.217Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 190
-    name: updated femfl subject
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.225Z'
-    updated_at: '2021-01-05T23:38:04.225Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 191
-    name: updated grit assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.240Z'
-    updated_at: '2021-01-09T21:35:08.361Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 192
-    name: updated ipa assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.248Z'
-    updated_at: '2021-01-09T21:35:08.372Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 193
-    name: updated ipa recruitment rank
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.256Z'
-    updated_at: '2021-01-09T21:35:08.384Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 194
-    name: updated persnet assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.297Z'
-    updated_at: '2021-01-09T21:35:08.402Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 195
-    name: updated pitt bhi assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.306Z'
-    updated_at: '2021-01-09T21:35:08.413Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 196
-    name: updated player career datum
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.316Z'
-    updated_at: '2021-01-09T21:35:08.424Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 197
-    name: updated player contact history
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.331Z'
-    updated_at: '2021-01-09T21:35:08.435Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 198
-    name: updated player contact phone info
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.340Z'
-    updated_at: '2021-01-09T21:35:08.446Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 199
-    name: updated player info history
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.364Z'
-    updated_at: '2021-01-09T21:35:08.457Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 200
-    name: updated player transaction
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.372Z'
-    updated_at: '2021-01-09T21:35:08.467Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 201
-    name: updated pro football master
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.381Z'
-    updated_at: '2021-01-09T21:35:08.477Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 202
-    name: updated q1 rc link
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.389Z'
-    updated_at: '2021-01-09T21:35:08.488Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 203
-    name: updated q2 rc link
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.397Z'
-    updated_at: '2021-01-09T21:35:08.498Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 204
-    name: updated rc femfl cif
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.405Z'
-    updated_at: '2021-01-05T23:38:04.405Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 205
-    name: updated scantron q2
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.434Z'
-    updated_at: '2021-01-09T21:35:08.516Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 206
-    name: updated sleep assignment
-    admin_id: 23
-    created_at: '2021-01-05T23:38:04.443Z'
-    updated_at: '2021-01-09T21:35:08.527Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 207
-    name: Verification Letter
-    admin_id: 1
-    created_at: '2021-01-05T23:38:04.451Z'
-    updated_at: '2021-01-05T23:38:04.451Z'
-    disabled: false
-    sub_process_id: 104
-    milestone: ''
-    description: ''
-    protocol_name: General Awareness
-    sub_process_name: Sent
-    user_email: 
-  - id: 234
-    name: created activity log  fem assignment fem comm
-    admin_id: 23
-    created_at: '2021-01-09T21:35:07.947Z'
-    updated_at: '2021-01-09T21:35:07.947Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 235
-    name: created activity log  zeus bulk message
-    admin_id: 23
-    created_at: '2021-01-09T21:35:07.968Z'
-    updated_at: '2021-01-09T21:35:07.968Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 236
-    name: created fem address
-    admin_id: 23
-    created_at: '2021-01-09T21:35:07.997Z'
-    updated_at: '2021-01-09T21:35:07.997Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 237
-    name: created fem assignment
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.008Z'
-    updated_at: '2021-01-09T21:35:08.008Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 238
-    name: created fem contact
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.017Z'
-    updated_at: '2021-01-09T21:35:08.017Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 239
-    name: created fem subject
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.024Z'
-    updated_at: '2021-01-09T21:35:08.024Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 240
-    name: created marketo master
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.064Z'
-    updated_at: '2021-01-09T21:35:08.064Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 241
-    name: created rc fem cif
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.207Z'
-    updated_at: '2021-01-09T21:35:08.207Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 242
-    name: created zeus bulk message
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.239Z'
-    updated_at: '2021-01-09T21:35:08.239Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 243
-    name: created zeus bulk message recipient
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.248Z'
-    updated_at: '2021-01-09T21:35:08.248Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 244
-    name: created zeus bulk message status
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.256Z'
-    updated_at: '2021-01-09T21:35:08.256Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 245
-    name: created zeus short link
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.264Z'
-    updated_at: '2021-01-09T21:35:08.264Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 246
-    name: created zeus short link click
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.273Z'
-    updated_at: '2021-01-09T21:35:08.273Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 247
-    name: updated activity log  fem assignment fem comm
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.281Z'
-    updated_at: '2021-01-09T21:35:08.281Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 248
-    name: updated activity log  zeus bulk message
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.300Z'
-    updated_at: '2021-01-09T21:35:08.300Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 249
-    name: updated fem address
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.328Z'
-    updated_at: '2021-01-09T21:35:08.328Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 250
-    name: updated fem assignment
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.336Z'
-    updated_at: '2021-01-09T21:35:08.336Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 251
-    name: updated fem contact
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.343Z'
-    updated_at: '2021-01-09T21:35:08.343Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 252
-    name: updated fem subject
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.351Z'
-    updated_at: '2021-01-09T21:35:08.351Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 253
-    name: updated marketo master
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.392Z'
-    updated_at: '2021-01-09T21:35:08.392Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 254
-    name: updated rc fem cif
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.506Z'
-    updated_at: '2021-01-09T21:35:08.506Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 255
-    name: updated zeus bulk message
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.535Z'
-    updated_at: '2021-01-09T21:35:08.535Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 256
-    name: updated zeus bulk message recipient
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.543Z'
-    updated_at: '2021-01-09T21:35:08.543Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 257
-    name: updated zeus bulk message status
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.552Z'
-    updated_at: '2021-01-09T21:35:08.552Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 258
-    name: updated zeus short link
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.560Z'
-    updated_at: '2021-01-09T21:35:08.560Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 259
-    name: updated zeus short link click
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.568Z'
-    updated_at: '2021-01-09T21:35:08.568Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 260
-    name: created fem subject
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.577Z'
-    updated_at: '2021-01-09T21:35:08.577Z'
-    disabled: false
-    sub_process_id: 2
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: flag updates
-    user_email: 
-  - id: 261
-    name: updated fem subject
-    admin_id: 23
-    created_at: '2021-01-09T21:35:08.587Z'
-    updated_at: '2021-01-09T21:35:08.587Z'
-    disabled: false
-    sub_process_id: 2
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: flag updates
-    user_email: 
-  - id: 262
-    name: created study page section
-    admin_id: 23
-    created_at: '2021-01-09T21:35:09.170Z'
-    updated_at: '2021-01-09T21:35:09.170Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 263
-    name: updated study page section
-    admin_id: 23
-    created_at: '2021-01-09T21:35:09.182Z'
-    updated_at: '2021-01-09T21:35:09.182Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 264
-    name: created study common section
-    admin_id: 23
-    created_at: '2021-01-09T21:35:09.193Z'
-    updated_at: '2021-01-09T21:35:09.193Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 265
-    name: updated study common section
-    admin_id: 23
-    created_at: '2021-01-09T21:35:09.205Z'
-    updated_at: '2021-01-09T21:35:09.205Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 266
-    name: created study info part
-    admin_id: 23
-    created_at: '2021-01-09T21:35:09.213Z'
-    updated_at: '2021-01-09T21:35:09.213Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 267
-    name: updated study info part
-    admin_id: 23
-    created_at: '2021-01-09T21:35:09.222Z'
-    updated_at: '2021-01-09T21:35:09.222Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 268
-    name: created activity log  study info part
-    admin_id: 23
-    created_at: '2021-01-09T21:35:09.230Z'
-    updated_at: '2021-01-09T21:35:09.230Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
-    user_email: 
-  - id: 269
-    name: updated activity log  study info part
-    admin_id: 23
-    created_at: '2021-01-09T21:35:09.238Z'
-    updated_at: '2021-01-09T21:35:09.238Z'
-    disabled: false
-    sub_process_id: 1
-    milestone: 
-    description: 
-    protocol_name: Updates
-    sub_process_name: record updates
     user_email: 
   associated_item_flag_names: []
   nfs_store_filters:
-  - id: 1
-    app_type_id: 64
+  - id: 29
+    app_type_id: 25
     role_name: editor
     user_id: 
     resource_name: activity_log__study_info_part__supporting_files
     filter: ".*"
     description: ''
     disabled: false
-    admin_id: 23
-    created_at: '2021-01-09T21:35:07.043Z'
-    updated_at: '2021-01-09T21:35:07.043Z'
+    admin_id: 4
+    created_at: '2021-01-15T15:11:37.527Z'
+    updated_at: '2021-01-15T15:11:37.527Z'
     user_email: 
-  - id: 2
-    app_type_id: 64
+  - id: 30
+    app_type_id: 25
     role_name: editor
     user_id: 
     resource_name: activity_log__study_info_part__attachments
     filter: ".*"
     description: ''
     disabled: false
-    admin_id: 23
-    created_at: '2021-01-09T21:35:07.058Z'
-    updated_at: '2021-01-09T21:35:07.058Z'
+    admin_id: 4
+    created_at: '2021-01-15T15:11:37.542Z'
+    updated_at: '2021-01-15T15:11:37.542Z'
+    user_email: 
+  - id: 31
+    app_type_id: 25
+    role_name: basic-viewer
+    user_id: 
+    resource_name: activity_log__study_info_part__attachments
+    filter: ".*"
+    description: ''
+    disabled: false
+    admin_id: 4
+    created_at: '2021-01-15T15:11:37.547Z'
+    updated_at: '2021-01-15T15:11:37.547Z'
+    user_email: 
+  - id: 32
+    app_type_id: 25
+    role_name: basic-viewer
+    user_id: 
+    resource_name: activity_log__study_info_part__supporting_files
+    filter: ".*"
+    description: ''
+    disabled: false
+    admin_id: 4
+    created_at: '2021-01-15T15:11:37.553Z'
+    updated_at: '2021-01-15T15:11:37.553Z'
     user_email: 
   user_email: 
