@@ -17,6 +17,7 @@ class DefaultSettings
   DefaultLogo = 'restructure-logo.svg'
   DefaultSchemaOwner = 'restrdba'
   TwoFactorAuthIssuer = 'ReStructure'
+  TwoFactorAuthIdleTimeout = 300
   PageTitle = 'ReStructure'
   DefaultShortLinkS3Bucket = (Rails.env.production? ? 'restr.link' : 'test-shortlink.link')
   DefaultShortLinkLogS3Bucket = (Rails.env.production? ? 'url-shortener-logs.restr' : 'test-restr-url-shortener-logs')
